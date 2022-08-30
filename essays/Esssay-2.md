@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Thoughts thus far"
 # All dates must be YYYY-MM-DD format!
-date: 2022-08-27
+date: 2022-08-30
 published: true
 labels:
   - Engineering

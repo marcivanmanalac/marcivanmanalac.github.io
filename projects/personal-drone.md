@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: img/scada/scada-cat.png
-title: "SCADA Lab"
-date: 2021-2022
+image: 
+title: "Drone Building"
+date: 07-01-2022
 9published: true
 labels:
   - Linux
   - Circuits
   - Systems
-summary: "A senior design project developing a SCADA system with legacy industrial components."
+summary: "My personal "
 ---
 
 <img class="img-fluid" src="../img/scada/scada-cat.png">
