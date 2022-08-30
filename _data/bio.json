@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/marcivanmanalac.png",
     "email": "marcivan@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "Email for more info",
     "website": "https://marcivanmanalac.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Computer & Electrical Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -17,16 +17,20 @@
     { "name": "Drones" },
     { "name": "Single Board Computers" },
     { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Robotics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "BASH", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "BASH", "Javascript", "Verilog" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++" ]
+      "name": "Software Toolsets/OS",
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++", "Autocad Fusion360", "MATLab" ]
+    },
+    {
+      "name":"Hardware Tools",
+      "keywords":["Soldering, Ender3 Pro 3D Printer, Arduino, Raspberry Pi, Pixhawk"]
     }
   ],
   "education": [
@@ -36,7 +40,7 @@
       "studyType": "B.S.",
       "startDate": "2019-08-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [""
       ]
     }
   ],
@@ -49,62 +53,24 @@
       "endDate": "Present",
       "summary": "Intern for 5G UAV Project",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted in testing and integration of self-landing system onboard UAV",
+        "Programmed drone companion computer raspberry pi"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+    
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "SFS CyberCorp Scholarship",
+      "date": "2021-Present",
+      "awarder": "U.S. Office of Personnel Management",
+      "summary": "Scholarships awarded to students working on Computer related degrees that are motivated to serve the Federal Government upon graduation."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Finalist",
+      "date": "2020",
+      "awarder": "National Security Innovation Network",
+      "summary": "Placed in top ten teams for NSIN Beat-the-Blaze hackathon out of 400 participants"
     }
   ],
   "references": [
