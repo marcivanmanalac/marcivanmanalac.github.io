@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Computer & Electrical Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "marcivanmanalac", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mimanalac", "url": "http://linkedin.com/in/changeme" }
+      { "network": "github", "username": "marcivanmanalac", "url": "http://github.com/marcivanmanalac" },
+      { "network": "linkedin", "username": "mimanalac", "url": "http://linkedin.com/in/mimanalac" }
     ]
   },
   "interests": [
