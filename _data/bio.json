@@ -14,9 +14,8 @@
     ]
   },
   "interests": [
-    { "name": "Drones" },
     { "name": "Single Board Computers" },
-    { "name": "Quantum Computing" },
+    { "name": "Drones" },
     { "name": "Robotics" }
   ],
   "skills": [
