@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/scada/scada-cat.png
 title: "SCADA Lab"
 date: 2021-2022
 9published: true
