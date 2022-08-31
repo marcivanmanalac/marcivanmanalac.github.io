@@ -13,6 +13,7 @@ labels:
   - Raspberry Pi
   - Programmable Logic Circuits
 summary: "A senior design project developing a SCADA Network with legacy industrial components."
+projecturl: https://drive.google.com/file/d/1a17wB0atc68WA2ptglZtIIFr9Ecx7uGI/view?usp=sharing
 ---
 
 <img width="200px" class="img-fluid" src="../img/scada/scada-cat.png">
