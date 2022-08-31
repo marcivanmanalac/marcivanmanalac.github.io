@@ -14,6 +14,9 @@ labels:
 
 *Interest in software engineering and what kinds of skills and experiences I hope to develop in the future*
 
-My interests in software engineering have slowly developed in the past couple of years. Early on, I was intimidated by the plethora of languages, tools, and resources that were out there. YouTube was littered with videos stating, "Here's why you should learn these ten tools" or "The only software engineering tools you need", and everyone contradicting one another.   
+My interests in software engineering have slowly developed in the past couple of years. Early on, I was intimidated by the plethora of languages, tools, and resources that were out there. YouTube was littered with videos stating, "Here's why you should learn these ten tools" or "The only software engineering tools you need". With everyone contradicting one another it was hard to find a language to consider dedicating some time into learning.
+
+## My hopes
+I hope to 
 
 
