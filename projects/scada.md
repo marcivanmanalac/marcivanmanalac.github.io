@@ -17,7 +17,7 @@ summary: "A senior design project developing a SCADA Network with legacy industr
 
 SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,ICS, & CENG students to experience designing and building a system in a faux-engineering company manner. The term SCADA stands for Supervisory Control and Data Acquisistion. It is any closed-loop self regulating system that utilizes sensors and actuators to interface with the real world. These systems can be found in major infrastructure such as traffic systems, utilities, railways, airports and more.
 
-<img src="https://media.giphy.com/media/mxO1AalLCm542j8tMo/giphy.gif" alt="Power Utility System">
+<img src="https://media.giphy.com/media/mxO1AalLCm542j8tMo/giphy.gif" alt="Power Utility System" style="float:center;">
 
 
 
@@ -38,12 +38,15 @@ Our system was to emulate a network of a power utility company such as HECO. On 
   <img width="300px" 
        src="../img/scada/PLC.jpg" 
        class="img-thumbnail" >
+  <img width="300px"
+       src="https://media.giphy.com/media/BR7Pog76PheYAWBxLl/giphy.gif"
+       class="img-thumbnail" >
 </div>
 
 ## The future of the Capstone
 
-<img width="200px" class="img-fluid" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif">
-In future iterations of the system, the team will be looking to implement different open source software defined networks for additional network security. They start to experiment on different machine learning algorithms and restructure the network design to follow the National Institute of Standards and Technologies Zero Trust Architecture.
+<img width="200px" class="rounded float-start pe-4" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" style="float:right;">
+In future iterations of the system, the team will be looking to implement different open source software defined networks for additional network security. They start to experiment on different machine learning algorithms and restructure the network design to follow the National Institute of Standards and Technologies Zero Trust Architecture. They will also be mounting the system on top of Holmes Hall and create a wireless network with the ICS building.
 
 ## My experience
 Not only was it a valuable learning experience, but I was able to enjoy team bulding and communicating to solve problems with fellow students with different STEM backgrounds. We also participated in a end of semester Defense Innovation Mixer where we presented our design project and viewed different projects related to solving real world problems.
