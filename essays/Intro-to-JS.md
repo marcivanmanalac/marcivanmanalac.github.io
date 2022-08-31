@@ -47,7 +47,10 @@ Regardless, I'm eager to get started.
   std::cout << "This also requires one, too!";
   return 0;
  }
-```
+``` 
+<img width="200px" class="rounded float-start pe-4" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="float:right;">
+
+
 
  JS's simple declaration of variables, objects, and shortcuts reminded me of that of pythons. That was the first couple of exercises in the course. Once I went past the halfway point I noticed that I would need to spend more time with some concepts compared to others that I’m already familiar with. There were parts that were foreign to me like it's uses of other programming language within it such as HTML. It will also take time getting familiar with and utilizing built in functions that I haven’t experienced until now.
 
