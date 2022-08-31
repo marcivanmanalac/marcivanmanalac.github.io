@@ -12,7 +12,7 @@ labels:
 summary: "A senior design project developing a SCADA system with legacy industrial components."
 ---
 
-<img class="img-fluid" src="../img/scada/scada-cat.png">
+<img width="200px" class="img-fluid" src="../img/scada/scada-cat.png">
 
 SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,ICS, & CENG students to experience designing and building a system in a faux-engineering company manner. 
 
@@ -20,8 +20,8 @@ SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,IC
 
 SCADA is blah
 
-<img class="img-fluid" src="../img/scada/antenna-plan.png">
+<img width="200px" class="img-fluid" src="../img/scada/antenna-plan.png">
 
 ## My experience
-<img class="img-fluid" src="../img/scada/h4d.jpg">
+<img width="200px" class="img-fluid" src="../img/scada/h4d.jpg">
 SCADA is dakines.

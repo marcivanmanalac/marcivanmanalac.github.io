@@ -12,4 +12,4 @@ labels:
 summary: "My personal "
 ---
 
-<img class="img-fluid" src="../img/scada/scada-cat.png">
+<img width="200px class="img-fluid" src="../img/scada/scada-cat.png">
