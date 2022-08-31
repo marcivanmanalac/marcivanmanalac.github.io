@@ -15,12 +15,12 @@ My interests in software engineering have slowly developed in the past couple of
 
 With everyone contradicting one another it was hard to find a language or pathway to dedicate some time into learning. Often times I would find myself in *Tutorial Hell*. A term for seemingly never ending process of learning how to code through tutorials, but never truly understanding. 
 
-## Looking Back
+### Looking Back
 ICS 314 is one of those courses I wish I took earlier on. In hindsight, it would have been handy to have a better understanding of all the tools used in this course. Certain courses early on required a lot of collaboration with group members for software related work. Working with others wasn't too much of a problem for me. What made it much more difficult was the ongoing COVID pandemic which shifted all learning and group work online. Having a better understanding of git and it's version control resources would have made life much easier. 
 
 Having a better understanding of the power of software also makes me wonder if I would have chosen the learning path I did now.
 
-## Hopes for the future
+### Hopes for the future
 I'm not a fan of self deprecation, but if I were completely honest, my coding knowledge looks alot like this graph:
 
 <img width="800px" class="img-fluid" src="../img/me-p-skills.png">
