@@ -10,6 +10,7 @@ labels:
   - Circuits
   - Systems
 summary: "My personal drone build"
+projecturl: https://drive.google.com/file/d/1a17wB0atc68WA2ptglZtIIFr9Ecx7uGI/view?usp=sharing
 ---
 <img width="200px class="img-fluid" src="../img/drone/drone.jpg">
 
