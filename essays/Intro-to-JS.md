@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/js-logo.png">
+<img width="200px" class="rounded float-start pe-4" src="img/no-space-js.jpg">
 
 ```
   console.log("Hello, World!");
