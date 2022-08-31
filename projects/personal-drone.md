@@ -4,7 +4,7 @@ type: project
 image: img/drone/drone.jpg
 title: "Drone Build"
 date: 07-01-2022 to Present
-9published: false
+published: false
 labels:
   - Linux
   - Circuits
@@ -16,5 +16,5 @@ summary: "Experimentation with Autonomous Unmanned Aerial Vehicles and onboard c
 Write more here.
 
 ## What it looks like
-
+das it
 <img width="200px class="img-fluid" src="../img/drone/drone_n_flynn_fixated.jpg">
