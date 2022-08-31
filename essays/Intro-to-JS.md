@@ -6,7 +6,7 @@ title: "Intro to JavaScript"
 date: 2022-08-27
 published: true
 labels:
-  - Engineering
+  - JavaScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/js-logo.jpg">
