@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/drone/drone.jpg
 title: "Drone Build"
 date: 07-01-2022
 9published: false
@@ -9,12 +9,11 @@ labels:
   - Linux
   - Circuits
   - Systems
-summary: "My personal drone build"
-projecturl: https://drive.google.com/file/d/1a17wB0atc68WA2ptglZtIIFr9Ecx7uGI/view?usp=sharing
+summary: "Experimentation with Autonomous Unmanned Aerial Vehicles"
 ---
-<img width="200px class="img-fluid" src="../img/drone/drone.jpg">
 
-more statements
+
+Write more here.
 
 ## What it looks like
 

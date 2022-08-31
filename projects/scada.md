@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/scada/scada-cat.png
 title: "SCADA Lab"
-date: 2021-2022
+date: 08-017-2021 to 01-06-2022
 9published: true
 labels:
   - Linux
@@ -15,8 +15,6 @@ labels:
 summary: "A senior design project developing a SCADA Network with legacy industrial components."
 projecturl: https://drive.google.com/file/d/1a17wB0atc68WA2ptglZtIIFr9Ecx7uGI/view?usp=sharing
 ---
-
-<img width="200px" class="img-fluid" src="../img/scada/scada-cat.png">
 
 SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,ICS, & CENG students to experience designing and building a system in a faux-engineering company manner. The term SCADA stands for Supervisory Control and Data Acquisistion. It is any closed-loop self regulating system that utilizes sensors and actuators to interface with the real world. These systems can be found in major infrastructure such as traffic systems, utilities, railways, airports and more.
 
