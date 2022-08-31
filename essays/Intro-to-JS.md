@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="img/no-space-js.jpg">
 
-```
+```JavaScript
   console.log("Hello, World!");
 ```
 During the time of writing this essay, it has already been a whole week since the beginning of the semester, rather the *beginning of the end* of my undergraduate education in Computer Engineering at the University of Hawai’i at Mānoa; I graduate this Fall. 
@@ -28,18 +28,20 @@ Regardless, I'm eager to get started.
  
  The first thing I noticed was that JavaScripts basic function notation, statement ending semicolons, quotations for strings, and comments matched that of C and C++. 
 
- ```
+ ```JavaScript
  //This is JavaScript
  function print(){
   console.log("This requires a semicolon!");
  }
-
+```
+```C
  //This is C
  int main(){
   printf("This also requires a semicolon!");
   return 0;
  }
-
+```
+```C++
  //This is C++
  int main(){
   std::cout << "This also requires one, too!";
