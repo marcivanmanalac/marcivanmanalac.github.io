@@ -49,7 +49,6 @@ Our system was to emulate a network of a power utility company such as HECO. On 
 In future iterations of the system, the team will be looking to implement different open source software defined networks for additional network security. They start to experiment on different machine learning algorithms and restructure the network design to follow the National Institute of Standards and Technologies Zero Trust Architecture. They will also be mounting the system on top of Holmes Hall and create a wireless network with the ICS building.
 
 
-## My experience
 Not only was it a valuable learning experience, but I was able to enjoy team bulding and communicating to solve problems with fellow students with different STEM backgrounds. We also participated in a end of semester Defense Innovation Mixer where we presented our design project and viewed different projects related to solving real world problems.
 
 <img width="600px" class="img-fluid" src="../img/scada/h4d.jpg" style="float:center;">
