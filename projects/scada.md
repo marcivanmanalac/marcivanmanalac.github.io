@@ -13,7 +13,6 @@ labels:
   - Raspberry Pi
   - Programmable Logic Circuits
 summary: "A senior design project developing a SCADA Network with legacy industrial components."
-projecturl: https://drive.google.com/file/d/1a17wB0atc68WA2ptglZtIIFr9Ecx7uGI/view?usp=sharing
 ---
 
 SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,ICS, & CENG students to experience designing and building a system in a faux-engineering company manner. The term SCADA stands for Supervisory Control and Data Acquisistion. It is any closed-loop self regulating system that utilizes sensors and actuators to interface with the real world. These systems can be found in major infrastructure such as traffic systems, utilities, railways, airports and more.
