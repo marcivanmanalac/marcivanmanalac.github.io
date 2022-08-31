@@ -11,5 +11,6 @@ labels:
   - Systems
 summary: "My personal "
 ---
+<img width="200px class="img-fluid" src="../img/drone/drone.jpg">
 
-<img width="200px class="img-fluid" src="../img/scada/scada-cat.png">
+<img width="200px class="img-fluid" src="../img/drone/drone_n_flynn_fixated.jpg">
