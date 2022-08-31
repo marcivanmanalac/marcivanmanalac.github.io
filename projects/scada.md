@@ -48,7 +48,7 @@ In future iterations of the system, the team will be looking to implement differ
 ## My experience
 Not only was it a valuable learning experience, but I was able to enjoy team bulding and communicating to solve problems with fellow students with different STEM backgrounds. We also participated in a end of semester Defense Innovation Mixer where we presented our design project and viewed different projects related to solving real world problems.
 
-<img width="600px" class="img-fluid" src="../img/scada/h4d.jpg" style="float:center;>
+<img width="600px" class="img-fluid" src="../img/scada/h4d.jpg" style="float:center;">
 
 <p><a href="../reports/scada_report_fall21.pdf">SCADA FALL 21 Report</a></p>
 
