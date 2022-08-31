@@ -18,8 +18,6 @@ projecturl: https://drive.google.com/file/d/1a17wB0atc68WA2ptglZtIIFr9Ecx7uGI/vi
 
 <img width="200px" class="img-fluid" src="../img/scada/scada-cat.png">
 
-
-## What is SCADA
 SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,ICS, & CENG students to experience designing and building a system in a faux-engineering company manner. The term SCADA stands for Supervisory Control and Data Acquisistion. It is any closed-loop self regulating system that utilizes sensors and actuators to interface with the real world. These systems can be found in major infrastructure such as traffic systems, utilities, railways, airports and more.
 
 
@@ -45,6 +43,8 @@ Our system was to emulate a network of a power utility company such as HECO. On 
 In future iterations of the system, the team will be looking to implement different open source software defined networks for additional network security. They start to experiment on different machine learning algorithms and restructure the network design to follow the National Institute of Standards and Technologies Zero Trust Architecture.
 
 ## My experience
+<img width="200px" class="img-fluid" src="../img/scada/h4d.jpg">
+
 Not only was it a valuable learning experience, but I was able to enjoy team bulding and communicating to solve problems with fellow students with different STEM backgrounds. We also participated in a end of semester Defense Innovation Mixer where we presented our design project and viewed different projects related to solving real world problems.
 
 <p><a href="../reports/scada_report_fall21.pdf">SCADA FALL 21 Report</a></p>
