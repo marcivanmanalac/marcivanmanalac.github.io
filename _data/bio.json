@@ -39,8 +39,8 @@
       "studyType": "B.S.",
       "startDate": "2019-08-01",
       "endDate": "Present",
-      "courses": [""
-      ]
+      "courses": ["Circuits I & II","Digital Design", "Intro to Programming C", "Intro to OOP C++", "Data Structure & Algorithms",
+                  "Microelectronic Circuits"]
     }
   ],
   "work": [
