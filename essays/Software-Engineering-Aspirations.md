@@ -21,6 +21,20 @@ ICS 314 is one of those courses I wish I took earlier on. In hindsight, it would
 Having a better understanding of the power of software also makes me wonder if I would have chosen the learning path I did now.
 
 ## Hopes for the future
+I'm not a fan of self deprecation, but if I were completely honest, my coding knowledge looks alot like this graph:
+```mermaid
+pie title My Programming Language Knowledge 
+    "C" : 100
+    "C++" : 30
+    "Python" : 40
+    "BASH": 4
+    "JavaScript": 5
+    "HTML":4
+    "CSS":1
+    "Stuff I don't know about those languages":800
+```
+In this case, I may being over estimating myself.
+
 I chose to study computer engineering because I want the flexibility of being able to work in hardware or software computer related roles. With this in mind, I would like to continue to maintain and develop this Professional Portfolio to showcase my achievements and aspirations for future. I would also like to sharpen my skills in regards to Software Engineering as a whole; being able to work with a minimal tech stack.  
 
 
