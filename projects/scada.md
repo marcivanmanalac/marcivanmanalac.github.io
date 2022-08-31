@@ -26,19 +26,19 @@ Our system was to emulate a network of a power utility company such as HECO. On 
 
 
 <div class="text-center p-4">
-  <img width="200px" 
+  <img width="200px" height="200px" 
        src="../img/scada/SCADAMap.png" 
        class="img-thumbnail" >
-  <img width="200px" 
+  <img width="200px" height="200px"
        src="../img/scada/sel-stat-leds.JPG" 
        class="img-thumbnail" >
-  <img width="200px" 
+  <img width="200px" height="200px"
        src="../img/scada/SEL-3505-ethernet-port.jpg" 
        class="img-thumbnail" >
-  <img width="200px" 
+  <img width="200px" height="200px"
        src="../img/scada/PLC.jpg" 
        class="img-thumbnail" >
-  <img width="200px"
+  <img width="200px" height="200px"
        src="https://media.giphy.com/media/BR7Pog76PheYAWBxLl/giphy.gif"
        class="img-thumbnail" >
 </div>
