@@ -3,13 +3,13 @@ layout: project
 type: project
 image: img/drone/drone.jpg
 title: "Drone Build"
-date: 07-01-2022
+date: 07-01-2022 to Present
 9published: false
 labels:
   - Linux
   - Circuits
   - Systems
-summary: "Experimentation with Autonomous Unmanned Aerial Vehicles"
+summary: "Experimentation with Autonomous Unmanned Aerial Vehicles and onboard computing"
 ---
 
 
