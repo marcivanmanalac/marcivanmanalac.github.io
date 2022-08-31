@@ -24,7 +24,7 @@ SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,IC
 
 
 ## Our Design
-Our system was to emulate a network of a power utility company such as HECO. On one end we have actuators such as power transmission line protection and high power relays which are connected via a wireless gateway and controlled and monitored by a user in a private network through yagi antennas.
+Our system was to emulate a network of a power utility company such as HECO. On one end we have actuators such as power transmission line protection and high power relays. These devices each operate using a private version of linux and can be accessed via ethernet and serial. The devices are are connected via a wireless gateway and controlled and monitored by a user in a private network through yagi antennas.
 
 <div class="text-center p-4">
   <img width="200px" 
@@ -41,6 +41,8 @@ Our system was to emulate a network of a power utility company such as HECO. On 
        class="img-thumbnail" >
 </div>
 
+## The future of the Capstone
+In future iterations of the system, the team will be looking to implement different open source software defined networks for additional network security. They start to experiment on different machine learning algorithms and restructure the network design to follow the National Institute of Standards and Technologies Zero Trust Architecture.
 
 ## My experience
 Not only was it a valuable learning experience, but I was able to enjoy team bulding and communicating to solve problems with fellow students with different STEM backgrounds. We also participated in a end of semester Defense Innovation Mixer where we presented our design project and viewed different projects related to solving real world problems.
