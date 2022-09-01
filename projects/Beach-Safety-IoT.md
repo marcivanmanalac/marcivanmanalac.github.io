@@ -32,5 +32,5 @@ Our four man team was split into two sub-teams. One focused on the Beach Safety 
 </div>
 
 <div>
-<a src="/reports/WatchTower-IoT-Project.pdf">Final Report</a>
+<p></p><a href="../reports/WatchTower-IoT-Project.pdf">Final Report</a></p>
 </div>
