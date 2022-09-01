@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Intro to JavaScript"
+title: "Smart Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2022-08-27
+date: 2022-09-01
 published: false
 labels:
   - StackOverflow
