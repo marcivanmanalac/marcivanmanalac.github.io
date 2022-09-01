@@ -32,7 +32,7 @@ Currently, I am in an iterative process to get my drone in the air solely with i
 ### Progress
 At the time of writing this, I am currently in the calibration and test autopilot phase. I'm hoping to get flying by the end of the Fall 2022 semster.
 <div class="text-center p-4">
-<img width="900px" class="img-thumbnail" src="../img/drone/drone-build-process-actual.png">
+<img width="900px" class="img-thumbnail" src="../img/drone/dbpa-svg.svg">
 </div>
 
 

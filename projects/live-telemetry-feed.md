@@ -69,5 +69,5 @@ Then finally, used a <a href="https://github.com/mavlink-router/mavlink-router">
 I was given a <a href="https://anemoment.com/features/">Trisonica mini weather sensor</a> to use as the first device to test, along with a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/">Raspberry Pi Zero</a>, and an <a href="https://mrobotics.io/docs/mro-x2-1-rev2/">mro x2.1 flight controller</a> and was able to display the data on the GCS as obstructed upon running the bash script on the onboard companion computer. My next step now is to be able to collect the data outside of the GCS and plot data using a python script so we can visualize the live telemtry using data science. While there are some setbacks and difficulties with this next step, I am excited to continue working on the project and learn more about open source drones!
 <div class="text-center p-4">
 <img width="500px" height="500px" class="img-thumbnail" src="../img/live-telem-feed/tsm-pic.jpg">
-<img width="500px" height="500px" class="img-thumbnail" src="../img/live-telem-feed/telem-data-gcs.png">
+<img width="500px" height="500px" class="img-thumbnail" src="../img/live-telem-feed/telem-data-gcs.jpg">
 </div>
