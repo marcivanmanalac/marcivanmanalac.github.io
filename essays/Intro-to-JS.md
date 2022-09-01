@@ -29,20 +29,20 @@ Regardless, I'm eager to get started.
  The first thing I noticed was that JavaScripts basic function notation, statement ending semicolons, quotations for strings, and comments matched that of C and C++. 
 
 <img width="400px" heigth="400px" class="img-fluid" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="float:right;">
- ```JavaScript
+ ```javascript
  //This is JavaScript
  function print(){
   console.log("This requires a semicolon!");
  }
 ```
-```C
+```c
  //This is C
  int main(){
   printf("This also requires a semicolon!");
   return 0;
  }
 ```
-```C++
+```cpp
  //This is C++
  int main(){
   std::cout << "This also requires one, too!";
