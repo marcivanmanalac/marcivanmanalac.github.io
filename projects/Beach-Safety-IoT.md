@@ -27,8 +27,8 @@ Your browser does not support the video tag.
 Our four man team was split into two sub-teams. One focused on the Beach Safety API and the other, which I was on, focused on the physical device build. We utilized the browser-based flow editor, NodeRed, to receive data from the public API and it's specific information for beaches on different facing beaches on the island of O'ahu. The information would then be sent into a pi node which actuates a servo and LED that displays beach hazard conditions in real time. 
 
 <div class="text-center p-4">
-<img class="img-thumbnail" src="img/watchtower/cloud-IoT.png">
-<img class="img-thumbnail" src="img/watchtower/watchtower-hardware.png">
+<img class="img-thumbnail" src="../img/watchtower/cloud-IoT.png">
+<img class="img-thumbnail" src="../img/watchtower/watchtower-hardware.png">
 </div>
 
 <div>
