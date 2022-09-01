@@ -25,12 +25,10 @@ The power of the software lies in it's autonomous capabilities. With either of t
 Currently, I am in an iterative process to get my drone in the air solely with it's avionics and without a computer companion. I initially believed that the process would be a linear one, but have recently learned that there are certain restraints and setbacks such as supply chain issues, hardware malfunctions, firmware version bugs, and knowledge bottlenecks.
 <div class="text-center p-4">
 <img width="900px" class="img-thumbnail" src="../img/drone/drone-build-process.png">
-What I thought the build process would be like.
 </div>
 
 <div class="text-center p-4">
 <img width="900px" class="img-thumbnail" src="../img/drone/drone-build-process-actual.png">
-What it looks like.
 </div>
 
 
