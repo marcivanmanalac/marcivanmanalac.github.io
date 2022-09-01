@@ -24,7 +24,6 @@ The first challenge was understanding the devices I was to work on. I did resear
 <img width="300px" height="300px" class="img-thumbnail" src="https://docs.px4.io/main/assets/img/logo_pro_small.e0fa34bd.png">
 <img width="300px" height="300px" class="img-thumbnail" src="https://ardupilot.org/dev/_static/ardupilot_logo.png">
 <img width="300px" height="400px" class="img-thumbnail" src="https://mavlink.io/assets/site/logo_mavlink_small.png">
-<img width="300px" height="300px" class="img-thumbnail" src="http://qgroundcontrol.com/wp-content/uploads/2017/04/QGC_RGB_Logo_Horizontal_Outlined.png">
 </div>
 
 Second, I needed to create a program that can log the data from the sensor to the raspberry pi. Through the documentation of the sensor I was able to configure it to transmit a specific size and timeframe for the data. I also used python to create a new file, read, and write the incoming data each time it was executed. The data also needed to be in tranlsated into the native language of the UAS known as the MAVLink protocol. To do this, I utilized the serial library to establish a read in the sensor data and the pymavlink library to create a mavlink connection with the GCS, encode the data into the appropriate protocol and transfer broadcast it via UDP. 
