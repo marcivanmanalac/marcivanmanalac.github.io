@@ -18,7 +18,7 @@ This project was conducted during the Spring 2022 Semester at the University of 
 
 <div class="text-center p-4">
 <video width="320" height="240" controls>
-  <source src="https://www.youtube.com/watch?v=a2mU8cClEGM" type="video/mp4">
+  <source src="../img/watchtower/watchtower-vid.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 </div>
@@ -27,8 +27,8 @@ Your browser does not support the video tag.
 Our four man team was split into two sub-teams. One focused on the Beach Safety API and the other, which I was on, focused on the physical device build. We utilized the browser-based flow editor, NodeRed, to receive data from the public API and it's specific information for beaches on different facing beaches on the island of O'ahu. The information would then be sent into a pi node which actuates a servo and LED that displays beach hazard conditions in real time. 
 
 <div class="text-center p-4">
-<img class="img-thumbnail" src="../img/watchtower/cloud-IoT.png">
-<img class="img-thumbnail" src="../img/watchtower/watchtower-hardware.png">
+<img class="img-thumbnail" src="../img/watchtower/cloud-IoT.png" width="800px">
+<img class="img-thumbnail" src="../img/watchtower/watchtower-hardware.png" width="800px">
 </div>
 
 <div>
