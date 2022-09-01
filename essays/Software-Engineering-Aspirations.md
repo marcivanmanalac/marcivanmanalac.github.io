@@ -26,9 +26,10 @@ Having a better understanding of the power of software also makes me wonder if I
 
 ### Hopes for the future
 
-
+<div>
 I'm not a fan of self deprecation, but if I were completely honest, my coding knowledge looks alot like this graph.
 <img width="600px" class="img-fluid" src="../img/me-p-skills.png">
+</div>
 In this case, I may being over estimating myself.
 
 I chose to study computer engineering because I want the flexibility of being able to work in hardware or software computer related roles. With this in mind, I would like to continue to maintain and develop this Professional Portfolio to showcase my achievements and aspirations for future. I would also like to sharpen my skills in regards to Software Engineering as a whole; being able to work with a minimal tech stack. Finally, I would just like to have a skillset that will allow me to work in the office, while travelling, or in the comfort of my own home. I believe software engineering will offer that. 
