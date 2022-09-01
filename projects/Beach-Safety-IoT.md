@@ -45,6 +45,6 @@ Our four man team was split into two sub-teams. One focused on the Beach Safety 
 <img class="img-thumbnail" src="../img/watchtower/watchtower-hardware.png" width="800px">
 </div>
 
-<div>
+<div class="text-center p-4">
 <p><a href="../reports/WatchTower-IoT-Project.pdf">Final Report</a></p>
 </div>
