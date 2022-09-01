@@ -28,7 +28,7 @@ Regardless, I'm eager to get started.
  
  The first thing I noticed was that JavaScripts basic function notation, statement ending semicolons, quotations for strings, and comments matched that of C and C++. 
 
-<img width="500px" heigth="500px" class="img-fluid" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="float:right;">
+<img width="450px" heigth="450px" class="img-fluid" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="float:right;">
  
  
  ```javascript
