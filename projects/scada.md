@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/scada/scada-cat.png
 title: "SCADA Lab"
-date: 08-017-2021 to 01-06-2022
+date: 2021
 published: true
 labels:
   - Linux

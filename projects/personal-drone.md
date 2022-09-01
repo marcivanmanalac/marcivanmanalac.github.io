@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/drone/drone.jpg
 title: "Drone Build"
-date: 07-01-2022 to Present
+date: 2022
 published: true
 labels:
   - Linux

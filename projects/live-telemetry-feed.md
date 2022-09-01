@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/live-telem-feed/data.jpg
 title: "Live Telemetry Feed"
-date: 07-01-2022 to Present
+date: 2022
 published: true
 labels:
   - Linux
