@@ -25,10 +25,9 @@ ICS 314 is one of those courses I wish I took earlier on. In hindsight, it would
 Having a better understanding of the power of software also makes me wonder if I would have chosen the learning path I did now.
 
 ### Hopes for the future
-
-<div>
 I'm not a fan of self deprecation, but if I were completely honest, my coding knowledge looks alot like this graph.
-<img width="600px" class="img-fluid" src="../img/me-p-skills.png">
+<div>
+<img width="600px" class="img-fluid" src="../img/me-p-skills.png" style="float:center;">
 </div>
 In this case, I may being over estimating myself.
 
