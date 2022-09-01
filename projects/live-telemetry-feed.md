@@ -20,7 +20,7 @@ During the Summer of 2022, I interned for NIWC Pacific's Unmanned Aerial Vehicle
 ### Challenges
 The first challenge was understanding the devices I was to work on. I did research on open source software for flight controllers, the peripheral components that made up a drone, the language they spoke in, and tools and resources available to me for the process. I came up with a surface level understanding of what makes the UAS fly and how to communicate with it. Luckily for me, the systems we were using for the Autopilot(AP), Ground Control Station(GCS), and related hardware was well documented in the <a href="https://docs.px4.io/main/en/">PX4</a> and <a href="https://ardupilot.org/dev/index.html">ArduPilot</a> websites. Both sources also offered a large community for support for hobbyist and companies alike.
 
-<div class="text-center p-4">>
+<div class="text-center p-4">
 <img width="300px" height="300px" class="img-thumbnail" src="https://docs.px4.io/main/assets/img/logo_pro_small.e0fa34bd.png">
 <img width="300px" height="300px" class="img-thumbnail" src="https://ardupilot.org/dev/_static/ardupilot_logo.png">
 <img width="300px" height="400px" class="img-thumbnail" src="https://mavlink.io/assets/site/logo_mavlink_small.png">
