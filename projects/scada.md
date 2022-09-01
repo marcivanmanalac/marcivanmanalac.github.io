@@ -38,9 +38,6 @@ Our system was to emulate a network of a power utility company such as HECO. On 
   <img width="200px" height="200px"
        src="../img/scada/PLC.jpg" 
        class="img-thumbnail" >
-  <img width="200px" height="200px"
-       src="https://media.giphy.com/media/BR7Pog76PheYAWBxLl/giphy.gif"
-       class="img-thumbnail" >
 </div>
 
 ## The future of the Capstone
