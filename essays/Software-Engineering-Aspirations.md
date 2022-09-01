@@ -27,7 +27,7 @@ Having a better understanding of the power of software also makes me wonder if I
 ### Hopes for the future
 I'm not a fan of self deprecation, but if I were completely honest, my coding knowledge looks alot like this graph.
 <div>
-<img width="600px" class="img-fluid" src="../img/me-p-skills.png" style="float:center;">
+<img width="400px" class="img-fluid" src="../img/me-p-skills.png" style="float:center;">
 </div>
 In this case, I may being over estimating myself.
 
