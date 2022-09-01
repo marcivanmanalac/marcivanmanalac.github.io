@@ -27,7 +27,7 @@ Our system was to emulate a network of a power utility company such as HECO. On 
 
 <div class="text-center p-4">
   <img width="200px" height="200px" 
-       src="../img/scada/SCADAMap.png" 
+       src="../img/scada/sel-setup.jpg" 
        class="img-thumbnail" >
   <img width="200px" height="200px"
        src="../img/scada/sel-stat-leds.JPG" 
