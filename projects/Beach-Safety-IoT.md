@@ -17,7 +17,7 @@ summary: "An IoT device for displaying Beach Conditions"
 This project was conducted during the Spring 2022 Semester at the University of Hawaii at Manoa in the Cyber-Physial Systems and IoT course. My team members and I were tasked with developing an IoT device that utilized a web API along with a raspberry pi and sensors. Our solution focused was an outdoor warning system for the many unattended beaches on Hawaii. 
 
 <div class="text-center p-4">
-<video width="320" height="240" controls>
+<video width="320" height="240" controls style="float:right;">
   <source src="../img/watchtower/watchtower-vid.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
