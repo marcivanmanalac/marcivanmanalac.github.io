@@ -30,7 +30,7 @@ Regardless, I'm eager to get started.
 
 <img width="400px" heigth="400px" class="img-fluid" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="float:right;">
  
- <div style="float:left;>
+ <div style="float:left;">
  ```javascript
  //This is JavaScript
  function print(){
