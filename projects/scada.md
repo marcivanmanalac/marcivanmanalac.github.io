@@ -15,7 +15,7 @@ labels:
 summary: "A senior design project developing a SCADA Network with legacy industrial components."
 ---
 <div>
-<img class="text-center p-4" src="https://media.giphy.com/media/mxO1AalLCm542j8tMo/giphy.gif" alt="Power Utility System" style="float:right;">
+<img class="text-center p-4" width="400px" height="400px" src="https://media.giphy.com/media/mxO1AalLCm542j8tMo/giphy.gif" alt="Power Utility System" style="float:right;">
 SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,ICS, & CENG students to experience designing and building a system in a faux-engineering company manner. The term SCADA stands for Supervisory Control and Data Acquisistion. It is any closed-loop self regulating system that utilizes sensors and actuators to interface with the real world. These systems can be found in major infrastructure such as traffic systems, utilities, railways, airports and more.
 </div>
 
