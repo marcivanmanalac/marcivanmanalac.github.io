@@ -4,7 +4,7 @@ type: project
 image: img/drone/drone.jpg
 title: "Drone Build"
 date: 07-01-2022 to Present
-published: false
+published: true
 labels:
   - Linux
   - Circuits
