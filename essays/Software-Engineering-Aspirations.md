@@ -12,8 +12,8 @@ labels:
 <div>
 <img width="200px" class="rounded float-start pe-4" src="../img/softeng/softeng.jpg">
 My interests in software engineering have slowly developed in the past couple of years. Early on, I was intimidated by the plethora of languages, tools, and resources that were out there. In my freshmen year, I would do the typical student thing and Youtube "What skills do I need as a Software Engineer"? YouTube was littered with videos stating, "Here's why you should learn these ten tools" or "The only software engineering tools you need" or my personal favorite "Why I quit Software Engineering". 
-
-
+</div>
+<div>
 <img width="400px" class="text-center pre-4" src="https://media.giphy.com/media/QvMlVkJ3XSSj9cOxDM/giphy.gif" style="float:right;">
 With everyone contradicting one another it was hard to find a language or pathway to dedicate some time into learning. Often times I would find myself in *Tutorial Hell*. A term for seemingly never ending process of learning how to code through tutorials, but never truly understanding. 
 </div>
