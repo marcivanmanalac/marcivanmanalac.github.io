@@ -6,11 +6,10 @@ title: "WatchTower Beach Safety IoT"
 date: 2022
 published: true
 labels:
-  - Linux
-  - Middleware
+  - NodeRed
   - Single Board Computers
-  - Python
   - Sensors
+  - IoT
 summary: "An IoT device for displaying Beach Conditions"
 ---
 
