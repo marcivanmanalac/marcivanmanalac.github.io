@@ -20,12 +20,12 @@ There are a wide array of hazards when it comes to the ocean. These are a few st
 
 
 <div class="text-center p-4">
-<ol>
+<ul>
   <li>682 ocean related drownings within a ten year time span</li>
   <li>305 of those drownings came from O'ahu</li>
   <li>Visitors also made up a startling 81 percent of ocean-related spinal cord injuries over the same period</li>
   <li>Visitors are 10x more likely to drown than residents</li>
-</ol>
+</ul>
 </div>
 
 With that in mind, conclulded that our solution should be an outdoor warning system for the many unattended beaches on Hawaii.
