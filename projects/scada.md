@@ -52,8 +52,9 @@ In future iterations of the system, the team will be looking to implement differ
 Not only was it a valuable learning experience, but I was able to be a part of multiple facets of the process. I designed and pitched my own SCADA system to the team. I was able to contact real support teams from Schweitzer Engineering Labs for assistance in troubleshooting components. I was introduced to some principles of computer networking and the use cases in industrial technologies. I experienced team bulding and communicating to solve problems with fellow students with different STEM backgrounds. We also participated in a end of semester Defense Innovation Mixer where we presented our design project and viewed different projects related to solving real-world cybersecurity problems.
 <div class="text-center p-4">
 <img width="600px" class="img-fluid" src="../img/scada/h4d.jpg" style="float:center;">
-</div>
 <p><a href="../reports/scada_report_fall21.pdf">SCADA FALL 21 Report</a></p>
+</div>
+
 
 
 
