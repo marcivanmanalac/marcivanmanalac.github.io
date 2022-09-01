@@ -20,10 +20,10 @@ SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,IC
 </div>
 
 
-
+<div>
 ## Our Design
 Our system was to emulate a network of a power utility company such as HECO. On one end we have actuators such as power transmission line protection and high power relays. These devices each operate using a private version of linux and can be accessed via ethernet and serial. The devices are are connected via a wireless gateway and controlled and monitored by a user in a private network through yagi antennas.
-
+</div>
 
 <div class="text-center p-4">
   <img width="200px" height="200px" 
