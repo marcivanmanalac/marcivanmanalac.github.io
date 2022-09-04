@@ -25,7 +25,7 @@
     },
     {
       "name": "Software Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++", "Autocad Fusion360", "MATLab" ]
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++", "Autocad Fusion360", "MATLab" ]
     },
     {
       "name":"Hardware Tools",
