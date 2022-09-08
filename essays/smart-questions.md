@@ -4,7 +4,7 @@ type: essay
 title: "My code isn't working..."
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-01
-published: false
+published: true
 labels:
   - StackOverflow
   - Software Engineering
@@ -24,5 +24,5 @@ At one point in time or another, a programmer, is going to encounter a problem o
   <li>Continue attempting random fixes</li>
 </ul>
 
-While we are taught basic skills such as interpersonal communication in different  relationship, communication on the internet to a community is often neglected.Like real-world relationships in different communities, there are nuances and acceptable ways of communicating.
+While we are taught basic skills such as interpersonal communication in different  relationship, communication on the internet to a community is often neglected.Like real-world relationships in different communities, there are nuances and acceptable ways of communicating within a forum such as <a href="https://stackoverflow.com">StackOverflow</a>.
 
