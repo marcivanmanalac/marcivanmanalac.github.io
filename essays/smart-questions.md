@@ -1,25 +1,28 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions"
+title: "My code isn't working..."
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-01
 published: false
 labels:
   - StackOverflow
+  - Software Engineering
+  - Troubleshooting
 ---
+*My Code isn't working.. haaalp!*
+### A Rookie mistake
+<iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG">via GIPHY</a></p>
 
-### Prompt
-By the time and date indicated on the Schedule page, write a technical essay regarding this module. You can use the issues above as a starting point, but write a stand-alone essay: don’t just answer them like it’s a homework assignment! Once you’ve finished the essay submit it using Laulima.
+At one point in time or another, a programmer, is going to encounter a problem or lapse in knowledge when it comes to a project. Being a prudent and dedicated problem solver, that programmer will go through multiple steps in coming up with a solution. Those steps being any of the following:
+<ul>
+  <li>Read internet forums.</li>
+  <li>Take a break and come back to it after.</li>
+  <li>Ask a friend.</li>
+  <li>Ask a colleague.</li>
+  <li>Ask the internet.</li>
+  <li>Continue attempting random fixes</li>
+</ul>
 
-Please note the following:
+While we are taught basic skills such as interpersonal communication in different  relationship, communication on the internet to a community is often neglected.Like real-world relationships in different communities, there are nuances and acceptable ways of communicating.
 
-Your submission should be a URL providing a direct link to your essay (not a link to the home page of your portfolio, nor a link to the essays directory page). If the link does not work, you will not get credit for your essay.
-
-An entry for your essay must also appear in the Essays page of your portfolio. Check this before submission. If it is not listed, it’s probably because your YAML front matter is incorrect. See the Essay Content section of the TechFolio documentation for details.
-
-Be sure that your essay is ready for evaluation before submitting it via Laulima. I often click on the link as soon as I receive the submission. If the essay is empty or only partially complete when I click on the link, you might not receive credit.
-
-Your essay must be original content, written during this semester reflecting your current views and writing style. You cannot submit essays that you wrote previously for this assignment. The purpose of this assignment is for you to practice writing right now, this semester.
-
-### Start
