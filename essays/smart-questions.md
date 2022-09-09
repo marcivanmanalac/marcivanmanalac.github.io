@@ -58,12 +58,10 @@ Finally, he recommends posting to StackOverflow, but not before searching the si
 This is a summary of a what a smart question is and isn't based on my interpretation of Eric's writings. A smart question starts with a descriptive title. If I could rewrite my old question today it would go something like, "*C Language scanf() function - returning numbers instead of appropriate string*", versus my no so smart, "*This isn't working. Please help* [picture of the code]". Although, there are probably hundreds of posts I could go through that answer that same problem first; you get the gist. 
 <div>
 <img width="300px" class="img-thumbnail" src="../img/smart-questions/not-smart.png" style="float:right">
-When writing our details we should also post our full source code required for stack users to recreate the problems. A 100+ line C program picture would be difficult for anyone to recreate and turn off any would answerers. Posting our code in a code block would display the code neatly and remedy that problem. Finally, we would like to show viewers that we are asking with lots of thought and effort by making sure our post has proper use of grammar, keeping it concise, to the point, and neat. 
+When writing our details we should also post our full source code required for stack users to recreate the problems. A 100+ line C program picture would be difficult for anyone to recreate and turn off any would answerers. Posting our code in a code block would display the code neatly and remedy that problem. Finally, we would like to show viewers that we are asking with lots of thought and effort by making sure our post has proper use of grammar, keeping it concise, to the point, and neat.
+ 
 <a href="https://stackoverflow.com/questions/30449692/where-are-the-syntax-errors-am-getting">This post</a> is and example of a *poor* question. The issue here wasn't so much a grammar, but more so the users lack of care and tone in asking the question. From a viewers perspective it's like the user is saying "Hey, fix this error for me" and shares a program with multiple problems rather than focusing on one problem, as if people would line up gladly and read through every line for them. 
 </div>
-<br>
-<br>
-<br>
 <br>
 <div>
 <img width="300px" class="img-thumbnail" src="../img/smart-questions/smart.png" style="float:left">
