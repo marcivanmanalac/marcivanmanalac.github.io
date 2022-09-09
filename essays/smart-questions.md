@@ -57,4 +57,4 @@ This is a summary of a what a smart question is and isn't based on Eric's writin
 
 ### That's all there is to it
 It may seem daunting and nuanced at first, but once you get the hang of it, you will be able to harness the power of tens of hundreds of thousands of programmers all across the globe and it's within your hands to use that power wisely.
-<iframe src="https://giphy.com/embed/3o84sq21TxDH6PyYms" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-3o84sq21TxDH6PyYms"></a></p>
+<iframe src="https://giphy.com/embed/3o84sq21TxDH6PyYms" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen style="float:center"></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-3o84sq21TxDH6PyYms"></a></p>
