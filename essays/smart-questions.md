@@ -62,6 +62,8 @@ When writing our details we should also post our full source code required for s
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/not-smart.png" style="float:right">
 <a href="https://stackoverflow.com/questions/30449692/where-are-the-syntax-errors-am-getting">This post</a> is and example of a *poor* question. The issue here wasn't so much a grammar, but more so the users lack of care and tone in asking the question. From a viewers perspective it's like the user is saying "Hey, fix this error for me" and shares a program with multiple problems rather than focusing on one problem, as if people would line up gladly and read through every line for them. 
 </div>
+<br>
+<br>
 <div>
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/smart.png" style="float:left">
 Compare that last post with this users <a href="https://stackoverflow.com/questions/2876357/determine-the-line-of-code-that-causes-a-segmentation-fault">smart question</a>. Although it is a short one, instead of begging other users to fix the code for them, they instead ask for the common causes for their errors; in this case for segmentation faults. With 214 upvotes and 63 bookmarks, you can see that stack users were more than open to help that user.
