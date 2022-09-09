@@ -26,7 +26,7 @@ At one point in time or another, a programmer, is going to encounter a problem o
   <li>Attempting random fixes</li>
   <li>Crying for help(My personal favorite)</li>
 </ul>
-
+<br>
 While we are taught basic skills such as interpersonal communication in different  relationships, communication on the internet to a forum or community is often neglected. Like real-world relationships wherever you go, there are nuances and acceptable ways of communicating. Such is also true for programmer hotspots such as <a href="https://stackoverflow.com">StackOverflow</a>.
 
 ### Questions the *smart* way
