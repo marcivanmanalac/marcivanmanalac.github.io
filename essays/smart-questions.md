@@ -13,9 +13,10 @@ labels:
 *... haaaalp!*
 ## A Rookie mistake
 
-
-At one point in time or another, a programmer is going to encounter a problem or lapse in knowledge when it comes to a project. Being a prudent and dedicated problem solver, that programmer will go through multiple steps in coming up with a viable solution. Those steps being any of the following:
+<div>
 <iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="384" height="237" frameBorder="0" class="giphy-embed" allowFullScreen style="float:right"></iframe>
+At one point in time or another, a programmer is going to encounter a problem or lapse in knowledge when it comes to a project. Being a prudent and dedicated problem solver, that programmer will go through multiple steps in coming up with a viable solution. Those steps being any of the following:
+
 <ul>
   <li>Reading internet forums.</li>
   <li>Take a break and coming back to it later.</li>
@@ -26,7 +27,7 @@ At one point in time or another, a programmer is going to encounter a problem or
   <li>Attempting random fixes</li>
   <li>Crying for help(My personal favorite)</li>
 </ul>
-<br>
+</div>
 <br>
 While we are taught basic skills such as interpersonal communication in different  relationships, communication on the internet to a forum or community is often neglected. Like real-world relationships wherever you go, there are nuances and acceptable ways of communicating. Such is also true for programmer hotspots such as <a href="https://stackoverflow.com">StackOverflow</a>.
 
@@ -59,7 +60,7 @@ This is a summary of a what a smart question is and isn't based on my interpreta
 <div>
 <img width="300px" class="img-thumbnail" src="../img/smart-questions/not-smart.png" style="float:right">
 When writing our details we should also post our full source code required for stack users to recreate the problems. A 100+ line C program picture would be difficult for anyone to recreate and turn off any would answerers. Posting our code in a code block would display the code neatly and remedy that problem. Finally, we would like to show viewers that we are asking with lots of thought and effort by making sure our post has proper use of grammar, keeping it concise, to the point, and neat.
- 
+
 <a href="https://stackoverflow.com/questions/30449692/where-are-the-syntax-errors-am-getting">This post</a> is and example of a *poor* question. The issue here wasn't so much a grammar, but more so the users lack of care and tone in asking the question. From a viewers perspective it's like the user is saying "Hey, fix this error for me" and shares a program with multiple problems rather than focusing on one problem, as if people would line up gladly and read through every line for them. 
 </div>
 <br>
