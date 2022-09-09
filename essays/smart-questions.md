@@ -12,7 +12,7 @@ labels:
 ---
 *My Code isn't working.. haaalp!*
 ## A Rookie mistake
-<iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe style="float:right">
+<iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen style="float:right"></iframe>
 
 At one point in time or another, a programmer, is going to encounter a problem or lapse in knowledge when it comes to a project. Being a prudent and dedicated problem solver, that programmer will go through multiple steps in coming up with a solution. Those steps being any of the following:
 <ul>
