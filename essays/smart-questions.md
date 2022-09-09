@@ -68,7 +68,9 @@ When writing our details we should also post our full source code required for s
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/smart.png" style="float:left">
 Compare that last post with this users <a href="https://stackoverflow.com/questions/2876357/determine-the-line-of-code-that-causes-a-segmentation-fault">smart question</a>. Although it is a short one, instead of begging other users to fix the code for them, they instead ask for the common causes for their errors; in this case for segmentation faults. With 214 upvotes and 63 bookmarks, you can see that stack users were more than open to help that user.
 </div>
-
+<br>
+<br>
+<br>
 ### That's all there is to it
 It may seem daunting and nuanced at first, but once you get the hang of it, you will be able to harness the power of tens of hundreds of thousands of programmers all across the globe and it's within your hands to use that power wisely.
 <div class="text-center p-4">
