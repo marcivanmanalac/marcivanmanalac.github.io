@@ -69,4 +69,6 @@ Compare that last post with this users <a href="https://stackoverflow.com/questi
 
 ### That's all there is to it
 It may seem daunting and nuanced at first, but once you get the hang of it, you will be able to harness the power of tens of hundreds of thousands of programmers all across the globe and it's within your hands to use that power wisely.
-<img width="400px" class="text-center pre-4" src="https://media.giphy.com/media/3o84sq21TxDH6PyYms/giphy.gif">
+<div class="text-center p-4">
+<img width="400px" class="img-thumbnail" src="https://media.giphy.com/media/3o84sq21TxDH6PyYms/giphy.gif">
+</div>
