@@ -12,9 +12,10 @@ labels:
 ---
 *... haaaalp!*
 ## A Rookie mistake
-<iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="384" height="237" frameBorder="0" class="giphy-embed" allowFullScreen style="float:right"></iframe>
+
 
 At one point in time or another, a programmer, is going to encounter a problem or lapse in knowledge when it comes to a project. Being a prudent and dedicated problem solver, that programmer will go through multiple steps in coming up with a viable solution. Those steps being any of the following:
+<iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="384" height="237" frameBorder="0" class="giphy-embed" allowFullScreen style="float:right"></iframe>
 <ul>
   <li>Reading internet forums.</li>
   <li>Take a break and coming back to it later.</li>
