@@ -20,13 +20,12 @@ summary: "A senior design project developing a SCADA Network with legacy industr
      SCADA Lab was a two-semester long capstone(currently ongoing) that allowed EE,ICS, & CENG students to experience designing and building a system in a faux-engineering company manner. The term SCADA stands for Supervisory Control and Data Acquisistion. It is any closed-loop self regulating system that utilizes sensors and actuators to interface with the real world. These systems can be found in major infrastructure such as traffic systems, utilities, railways, airports and more.
 
      Our motivation for SCADA comes from notable cybersecurity attacks.
-     <ol>
+<ol>
      <li>2010 Stuxnet in Iran</li>
      <li>2013 Target HVAC System Attack</li>
      <li>2015 Black Energy Crisi Ukraine</li>
      <li>2021 Colonial Pipeline</li>
-     </ol>
-</div>
+</ol>
 
 
 
