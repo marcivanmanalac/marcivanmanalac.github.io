@@ -17,7 +17,7 @@ summary: "Experimentation with Autonomous Unmanned Aerial Vehicles and onboard c
 ### About Open Source Drone Building
 <img width="200px" height="200px" class="rounded float-start pe-4" src="../img/drone/drone_n_flynn_fixated.jpg">
 I have been experimenting with building drones that use open source hardware and software starting in the middle of Summer 2022. The two most popular *autopilot* softwares are called PX4 and ArduPilot. The software is loaded onto a flight controller which controls the drones motors, esc's, and peripherals such as GPS, SiK Telemetry Radios, Receivers. The flight controller then sends this data down to a Ground Control Station(GCS) via the open source middleware MAVLink protocol. This image below shows the standard layout using the open standard pixhawk hardware.
-<div>
+<div class="zoom-within-container">
 <img width="400px" height="400px" class="img-thumbnail" src="https://ardupilot.org/copter/_images/Pixhawk-Inforgraphic2.jpg" style="float:right;">
 </div>
 
