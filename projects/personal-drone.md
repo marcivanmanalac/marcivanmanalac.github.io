@@ -17,18 +17,18 @@ summary: "Experimentation with Autonomous Unmanned Aerial Vehicles and onboard c
 ### About Open Source Drone Building
 <img width="200px" height="200px" class="rounded float-start pe-4" src="../img/drone/drone_n_flynn_fixated.jpg">
 I have been experimenting with building drones that use open source hardware and software starting in the middle of Summer 2022. The two most popular *autopilot* softwares are called PX4 and ArduPilot. The software is loaded onto a flight controller which controls the drones motors, esc's, and peripherals such as GPS, SiK Telemetry Radios, Receivers. The flight controller then sends this data down to a Ground Control Station(GCS) via the open source middleware MAVLink protocol. This image below shows the standard layout using the open standard pixhawk hardware.
-<div class="zoom-within-container">
-<img width="400px" height="400px" class="img-thumbnail" src="https://ardupilot.org/copter/_images/Pixhawk-Inforgraphic2.jpg" style="float:right;">
+<div class="zoom-without-container">
+  <img width="400px" height="400px" class="img-thumbnail" src="https://ardupilot.org/copter/_images/Pixhawk-Inforgraphic2.jpg" style="float:right;">
 </div>
 
 ### Relevance to Engineering
 Drones have become widely available for public and private users with a growing array of applications. Not only do they make for extraordinary cinematic videos, but they are also capable of being equipped with a multitude of sensors  and computers to conduct complex tasks such as spraying pesticides within an area, counting livestock, mapping live wildfires and more. I found that building a drone would allow me to put my new found engineering knowledge to practical use. Some tasks I would need to complete to get started are:
 <ol>
-<li>Create circuit diagrams to map out the vehicle, computer, and sensor current draw and power.</li>
-<li>Calculate flight time based on weight, thrust, and battery capabilities</li>
-<li>Program the onboard computer companion to manage processes for sensors manage communicating with AutoPilot</li>
-<li>Program Ground Control Station to receive and analyze incoming data</li>
-<li>3D print custom housing to fix components onto system</li>
+  <li>Create circuit diagrams to map out the vehicle, computer, and sensor current draw and power.</li>
+  <li>Calculate flight time based on weight, thrust, and battery capabilities</li>
+  <li>Program the onboard computer companion to manage processes for sensors manage communicating with AutoPilot</li>
+  <li>Program Ground Control Station to receive and analyze incoming data</li>
+  <li>3D print custom housing to fix components onto system</li>
 </ol>
 
 ### Planning 
@@ -37,13 +37,15 @@ In my project, I am equipping the vehicle with an onboard computer companion ras
 
 I initially believed that the process would be a linear one, but I have recently learned that there are certain restraints and setbacks such as supply chain issues, hardware malfunctions, firmware version bugs, and knowledge bottlenecks that make for a more complex process.
 <div class="text-center p-4">
-<img width="900px" class="img-thumbnail" src="../img/drone/drone-build-process.png">
+  <img width="900px" class="img-thumbnail" src="../img/drone/drone-build-process.png">
 </div>
 
 ### Progress
 At the time of writing this, I am in an iterative process to get my drone in the air solely with it's avionic components and without a computer companion or extra sensors. I am currently in the calibration and test autopilot phase of my schedule, I'm hoping to get flying by the end of the Fall 2022 semster.
 <div class="text-center p-4">
-<img width="900px" class="img-thumbnail" src="../img/drone/dbpa-svg.svg">
+  <div class="zoom-without-container">
+    <img width="900px" class="img-thumbnail" src="../img/drone/dbpa-svg.svg">
+  </div>
 </div>
 
 
