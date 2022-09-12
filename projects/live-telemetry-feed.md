@@ -21,7 +21,7 @@ During the Summer of 2022, I interned for NIWC Pacific's Unmanned Aerial Vehicle
 The first challenge was understanding the devices I was to work on. I did research on open source software for flight controllers, the peripheral components that made up a drone, the language they spoke in, and tools and resources available to me for the process. I came up with a surface level understanding of what makes the UAS fly and how to communicate with it. Luckily for me, the systems we were using for the Autopilot(AP), Ground Control Station(GCS), and related hardware was well documented in the <a href="https://docs.px4.io/main/en/">PX4</a> and <a href="https://ardupilot.org/dev/index.html">ArduPilot</a> websites. Both sources also offered a large community for support for hobbyist and companies alike.
 
 <div class="text-center p-4">
-  <div class="zoom-without-container">
+  <div class="zoom-within-container">
     <img width="300px" height="300px" class="img-thumbnail" src="https://docs.px4.io/main/assets/img/logo_pro_small.e0fa34bd.png">
     <img width="300px" height="300px" class="img-thumbnail" src="https://ardupilot.org/dev/_static/ardupilot_logo.png">
     <img width="300px" height="400px" class="img-thumbnail" src="https://mavlink.io/assets/site/logo_mavlink_small.png">
@@ -69,7 +69,7 @@ Then finally, used a <a href="https://github.com/mavlink-router/mavlink-router">
 ### Results
 I was given a <a href="https://anemoment.com/features/">Trisonica mini weather sensor</a> to use as the first device to test, along with a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/">Raspberry Pi Zero</a>, and an <a href="https://mrobotics.io/docs/mro-x2-1-rev2/">mro x2.1 flight controller</a> and was able to display the data on the GCS as obstructed upon running the bash script on the onboard companion computer. My next step now is to be able to collect the data outside of the GCS and plot data using a python script so we can visualize the live telemtry using data science. While there are some setbacks and difficulties with this next step, I am excited to continue working on the project and learn more about open source drones!
 <div class="text-center p-4">
-    <div class="zoom-without-container">
+    <div class="zoom-within-container">
     <img width="500px" height="500px" class="img-thumbnail" src="../img/live-telem-feed/tsm-pic.jpg">
     <img width="500px" height="500px" class="img-thumbnail" src="../img/live-telem-feed/telem-data-gcs.jpg">
   </div>

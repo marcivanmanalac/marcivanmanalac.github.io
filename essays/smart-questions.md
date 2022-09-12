@@ -58,7 +58,7 @@ Finally, he recommends posting to StackOverflow, but not before searching the si
 
 This is a summary of a what a smart question is and isn't based on my interpretation of Eric's writings. A smart question starts with a descriptive title. If I could rewrite my old question today it would go something like, "*C Language scanf() function - returning numbers instead of appropriate string*", versus my no so smart, "*This isn't working. Please help* [picture of the code]". Although, there are probably hundreds of posts I could go through that answer that same problem first; you get the gist. 
 <div>
-  <div class="zoom-without-container">
+  <div class="zoom-within-container">
     <img width="300px" class="img-thumbnail" src="../img/smart-questions/not-smart.png" style="float:right">
   </div>
 When writing our details we should also post our full source code required for stack users to recreate the problems. A 100+ line C program picture would be difficult for anyone to recreate and turn off any would answerers. Posting our code in a code block would display the code neatly and remedy that problem. Finally, we would like to show viewers that we are asking with lots of thought and effort by making sure our post has proper use of grammar, keeping it concise, to the point, and neat.
@@ -67,7 +67,7 @@ When writing our details we should also post our full source code required for s
 </div>
 <br>
 <div>
-  <div class="zoom-without-container">
+  <div class="zoom-within-container">
     <img width="300px" class="img-thumbnail" src="../img/smart-questions/smart.png" style="float:left">
   </div>
 Compare that last post with this users <a href="https://stackoverflow.com/questions/2876357/determine-the-line-of-code-that-causes-a-segmentation-fault">smart question</a>. Although it is a short one, instead of begging other users to fix the code for them, they instead ask for the common causes for their errors; in this case for segmentation faults. With 214 upvotes and 63 bookmarks, you can see that stack users were more than open to help that user.
@@ -79,7 +79,7 @@ Compare that last post with this users <a href="https://stackoverflow.com/questi
 ### That's all there is to it
 It may seem daunting and nuanced at first, but once you get the hang of it, you will be able to harness the power of tens of hundreds of thousands of programmers all across the globe and it's within your hands to use that power wisely.
 <div class="text-center p-4">
-  <div class="zoom-without-container">
+  <div class="zoom-within-container">
     <img width="900px" class="img-thumbnail" src="https://media.giphy.com/media/3o84sq21TxDH6PyYms/giphy.gif">
   </div>
 </div>

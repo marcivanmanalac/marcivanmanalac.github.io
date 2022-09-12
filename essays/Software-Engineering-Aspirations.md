@@ -10,13 +10,13 @@ labels:
 ---
 *Interest in software engineering and what kinds of skills and experiences I hope to develop in the future*
 <div>
-    <div class="zoom-without-container">
+    <div class="zoom-within-container">
       <img width="200px" class="rounded float-start pe-4" src="../img/softeng/softeng.jpg">
     </div>
   My interests in software engineering have slowly developed in the past couple of years. Early on, I was intimidated by the plethora of languages, tools, and resources that were out there. In my freshmen year, I would do the typical student thing and Youtube "What skills do I need as a Software Engineer"? YouTube was littered with videos stating, "Here's why you should learn these ten tools" or "The only software engineering tools you need" or my personal favorite "Why I quit Software Engineering". 
 </div>
 <div>
-  <div class="zoom-without-container">
+  <div class="zoom-within-container">
     <img width="400px" class="text-center pre-4" src="https://media.giphy.com/media/QvMlVkJ3XSSj9cOxDM/giphy.gif" style="float:right;">
   </div>
 With everyone contradicting one another it was hard to find a language or pathway to dedicate some time into learning. Often times I would find myself in *Tutorial Hell*. A term for seemingly never ending process of learning how to code through tutorials, but never truly understanding. 
@@ -30,7 +30,7 @@ Having a better understanding of the power of software also makes me wonder if I
 
 ### Hopes for the future
 I'm not a fan of self deprecation, but if I were completely honest, my coding knowledge looks alot like this graph.
-<div class="zoom-without-container">
+<div class="zoom-within-container">
   <img width="400px" class="img-fluid" src="../img/me-p-skills.png" style="float:center;">
 </div>
 In this case, I may being over estimating myself.
