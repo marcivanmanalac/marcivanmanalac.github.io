@@ -24,6 +24,8 @@ labels:
     <li>It promotes sound programming practices and increases efficiency of the programmers.</li>
   </ul>
 These are some of the common standards practiced in the programming community:
+<div>
+    <img src="https://www.multidots.com/wp-content/uploads/2018/10/importance_codequality_banner.jpg" class="img-thumbnail" width="300px" style="float:right">
   <ul>
     <li>Limited use of globals</li>
     <li>Standard headers for different modules</li>
@@ -35,8 +37,8 @@ These are some of the common standards practiced in the programming community:
     <li>Code should be well documented</li>
     <li>Length of functions should not be very large</li>
     <li>Try not to use GOTO statement</li>
-      <img src="https://www.multidots.com/wp-content/uploads/2018/10/importance_codequality_banner.jpg" class="img-thumbnail" width="250px" style="float:right">
-  </ul>
+   </ul>
+</div>
 
 </div>
 <br>
