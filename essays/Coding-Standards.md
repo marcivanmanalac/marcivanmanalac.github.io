@@ -25,7 +25,7 @@ labels:
   </ul>
 These are some of the common standards practiced in the programming community:
 <div>
-    <img src="https://www.multidots.com/wp-content/uploads/2018/10/importance_codequality_banner.jpg" class="img-thumbnail" width="300px" style="float:right">
+    <img src="https://www.multidots.com/wp-content/uploads/2018/10/importance_codequality_banner.jpg" class="img-thumbnail" width="400px" style="float:right">
   <ul>
     <li>Limited use of globals</li>
     <li>Standard headers for different modules</li>
@@ -49,9 +49,9 @@ These are some of the common standards practiced in the programming community:
 <br>
 
 ### Now what?
-Phasellus ut fringilla nisi. Sed sed tellus convallis, finibus ligula vel, imperdiet eros. Aliquam erat volutpat. Integer in mollis nibh, id ornare lacus. Suspendisse turpis mi, vehicula eget mattis nec, fringilla quis nisi. Duis risus nisi, molestie vitae ipsum sed, lobortis varius elit. Mauris lobortis sem quis libero vulputate accumsan. Nunc facilisis quam et neque feugiat, ut rhoncus est pretium.
+Although coding standards change based on the people, companies, or projects you work on, it is best to get used to them. At the very least, being able to understand them and to apply them into your code at any given moment. Like moving to a different country, it would behoove you to adopt their customs, courtesies, and language. To be able to communicate effectively, to understand others and to be understood is the most important factor when it comes to your success a programming environment.
 
-Vivamus vitae rutrum libero. Curabitur in magna sollicitudin tortor egestas lobortis. Nulla tempus turpis mi, et sagittis urna scelerisque vitae. Aliquam accumsan metus et nunc fermentum pellentesque. Pellentesque rutrum metus in velit elementum, vel bibendum ante mollis. Mauris in scelerisque ipsum, vitae lobortis lectus. Duis eget commodo eros. Nullam laoreet tellus vel turpis vestibulum bibendum. Duis ornare dapibus cursus. Nulla ac ex in ante aliquam aliquam. Quisque scelerisque, felis nec rutrum tincidunt, magna enim tristique nunc, sed rutrum diam magna nec odio. Fusce porttitor quam nec orci malesuada, ut tempor tortor tempor.
+For me, I will continue to do my best to add some of those standards in my everyday coding and stay open and flexible to applying new ones to assimilate to my current coding environment. With the plethora of tools available to us, what do we have to lose? 
 
 
 
