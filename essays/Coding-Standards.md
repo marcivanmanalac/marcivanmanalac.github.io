@@ -14,10 +14,28 @@ labels:
   <img width="400px" class="rounded float-start pe-4" src="https://media.giphy.com/media/YC2a09nzvP5yDiD3Jo/giphy.gif">
   It has been a little over two years since writing my first line of code. That accelerated summer course in C programming was both enlightening and  frustrating. At the time, I didn't think about how my code was written or how legible it was; my only priority was to get the bloody program to work. It was only when a teachers assistant brought it to my attention that she couldn't give me partial points for my work due to its illegibility that knew I needed to change something. From then on I tried replicating professor and TAs style of writing. I made indents within a coding block, gave my brackets their own spaces, and wrote comments after a statement just to name a few changes. Most importantly, I gave my programs structure which enabled those who were grading my work the ability to see my methods and thought process for my approach in solving problems. Once that class was over I kept the same format for all programming related work. I didn't think there was an actual way of writing code that is widely recognized by many; a *coding standard*. Until now. Why is this important to me and why should I care?
 </div>
-
+<br>
 <div>
-
-  Nulla facilisi. Nullam facilisis eros vitae lacus auctor, et venenatis nunc tempus. Praesent consequat facilisis feugiat. Proin quis massa semper nibh congue vestibulum eget sit amet neque. Nunc id rutrum risus, ut rhoncus ligula. Ut rutrum suscipit nisl, id egestas tellus pretium luctus. Ut pretium, nunc quis tempor dictum, nulla felis mollis velit, lacinia finibus quam turpis et arcu. Mauris laoreet libero et nisl venenatis, a aliquet justo placerat. Suspendisse in porttitor mauris. Donec finibus lectus augue, ut blandit mauris lacinia at. Fusce vitae libero metus. In hac habitasse platea dictumst. Suspendisse blandit turpis eget risus imperdiet ullamcorper.With everyone contradicting one another it was hard to find a language or pathway to dedicate some time into learning. Often times I would find myself in *Tutorial Hell*. A term for seemingly never ending process of learning how to code through tutorials, but never truly understanding. 
+ There are many definitions for the term *Coding Standards*. In summary, It is a way for programmers to work together and understand code; a sort of language for understanding the language for any given project.<a href="https://www.geeksforgeeks.org/coding-standards-and-guidelines/">GeeksForGeeks</a> explains the need for coding standards and a handful of purposes for having them.
+  <ul>
+    <li>A coding standard gives a uniform appearance to the codes written by different engineers.</li>   
+    <li>It improves readability, and maintainability of the code and it reduces complexity also.</li>
+    <li>It helps in code reuse and helps to detect error easily.</li>
+    <li>It promotes sound programming practices and increases efficiency of the programmers.</li>
+  </ul>
+These are some of the common standards practiced in the programming community:
+  <ul>
+    <li>Limited use of globals</li>
+    <li>Standard headers for different modules</li>
+    <li>Naming conventions for local variables, global variables, constants and functions</li>
+    <li>Indentation</li>
+    <li>Error return values and exception handling conventions</li>
+    <li>Avoid using a coding style that is too difficult to understand</li>
+    <li>Avoid using an identifier for multiple purposes</li>
+    <li>Code should be well documented</li>
+    <li>Length of functions should not be very large</li>
+    <li>Try not to use GOTO statement</li>
+  </ul>
 </div>
 <br>
 
