@@ -36,6 +36,7 @@ These are some of the common standards practiced in the programming community:
     <li>Length of functions should not be very large</li>
     <li>Try not to use GOTO statement</li>
   </ul>
+  <img src="https://www.multidots.com/wp-content/uploads/2018/10/importance_codequality_banner.jpg" class=img=thumbnail style="float:right">
 </div>
 <br>
 
