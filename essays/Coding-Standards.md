@@ -46,7 +46,7 @@ These are some of the common standards practiced in the programming community:
 <br>
 
 ### Personal Experience With Standards
-  <img width="400px" class="text-center pre-4" src="https://media.giphy.com/media/SAAMcPRfQpgyI/giphy.gif" style="float:left;">
+  <img width="300px" class="rounded float-start pe-4" src="https://media.giphy.com/media/SAAMcPRfQpgyI/giphy.gif" style="float:left;">
   Out of that long list of common practices, it appears I have surprisingly been practicing a small fraction of them all along, yet I have barely scratched the surface when it comes to implementing coding standards in my own work. Understanding this earlier in my coding career would have been of great help when it came to working on group programming projects. Not only did it make it slightly more challenging trying to decipher my group mates work, with all of our different personal standards, but our work always seemed to be missing a sense of uniformity and professionalism that I would see in popular and well managed repositories. While it did seem like extra work before, being introduced to Integrated Development Environments (IDEs) such as <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a> and plugin code editors like <a href="https://eslint.org/">ESLint</a> has left me with feeling like most the the work is done for me. Now, I can focus on solving problems and rely on those tools to keep my code neat and uniform within a set of standards.
 <br>
 
