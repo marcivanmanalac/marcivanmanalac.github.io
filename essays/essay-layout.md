@@ -11,7 +11,7 @@ labels:
 *Why it matters if others can understand your code*
 ### Who Cares if others can't read your code?
 <div>
-  <img width="400px" class="rounded float-start pe-4" src="https://media.giphy.com/media/YC2a09nzvP5yDiD3Jo/giphy.gif">
+  <img width="300px" class="rounded float-start pe-4" src="https://media.giphy.com/media/YC2a09nzvP5yDiD3Jo/giphy.gif">
   It has been a little over two years since writing my first line of code. That accelerated summer course in C programming was both enlightening and  frustrating. At the time, I didn't think about how my code was written or how legible it was; my only priority was to get the bloody program to work. It was only when a teachers assistant brought it to my attention that she couldn't give me partial points for my work due to its illegibility that knew I needed to change something. From then on I tried replicating professor and TAs style of writing. I made indents within a coding block, gave my brackets their own spaces, and wrote comments after a statement just to name a few changes. Most importantly, I gave my programs structure which enabled those who were grading my work the ability to see my methods and thought process for my approach in solving problems. Once that class was over, I kept the same format for all programming related work. I didn't think there was an actual way of writing code that is widely recognized by many; a sort of "coding standard". That was until now. 
   <br>
   Why is this important to me and why should I care?
