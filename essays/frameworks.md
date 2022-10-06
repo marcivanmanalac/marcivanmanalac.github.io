@@ -49,8 +49,8 @@ While it has only been a week since we began our UI design module, I have come t
 <br> 
 Being able to simplify lines of code for layouts such as containers, grids, and columns was a much welcomed relief.
 <div> 
-  <img width="300px" class="img-thumbnail" src="../img/frameworks/bootstrap-grid.png" style="float:right">
-  ```html
+  <img width="400px" class="img-thumbnail" src="../img/frameworks/bootstrap-grid.png">
+  ```HTML
   <div class="container text-center">
     <div class="row">
       <div class="col">
