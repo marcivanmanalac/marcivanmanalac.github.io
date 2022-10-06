@@ -50,7 +50,9 @@ While it has only been a week since we began our UI design module, I have come t
 Being able to simplify lines of code for layouts such as containers, grids, and columns was a much welcomed relief.
 
   <img width="400px" class="img-thumbnail" src="../img/frameworks/bootstrap-grid.png" style="text-align: center;">
-
+  <br>
+  
+  ```
   ```
   <div class="container text-center">
     <div class="row">
@@ -66,7 +68,7 @@ Being able to simplify lines of code for layouts such as containers, grids, and 
     </div>
   </div>
   ```
-
+  ```
 
 I also enjoyed using the bootstrap 5 components for blocks such as navigation bars as well as the wide selection of icons you can select from.
 <div>
