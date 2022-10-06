@@ -20,22 +20,28 @@ labels:
 
 
 ### Pros and Cons
-  <img width="300px" class="rounded float-start pe-4" src="https://media.giphy.com/media/xT8qBit7YomT80d0M8/giphy.gif" style="float:left;">
+  <img width="300px" class="rounded float-start pe-4" src="https://media.giphy.com/media/xT8qBit7YomT80d0M8/giphy.gif" style="float:right;">
   We can treat web development like a roadmap. Before starting our trip, we need to take into account of all the paths we can take and which one will lead us to our destination in the most efficient way possible. When weighing out the different options on whether to use a framework or not you should ask yourself:
-  <ol>
+  <ul>
     <li>
       <h5>What are you trying to accomplish?</h5>
-      <p>test</p>
+      <p>
+        Are you creating a web page that requires you to have a hand in every fine detail of the site? Will using a framework hinder this? Then it may be best to use standard CSS and HTML. Maybe you require the opposite and can get the job done using predefined functions and templates? Thats where a framework can shine. 
+      </p>
     </li>
     <li>
       <h5>Who are you sharing this code with?</h5>
-      <p>test</p>
+      <p>
+        When working with others, it is best practice to be on the same page on what tools are being utilized for a project. It is a challenge enough to maintain and manage a project with hundreds of lines of code let alone code from team members using different frameworks. In this scenario, it may be best to use the same frameworks that everyone is familiar with. Or if the project is simple enough, not using one at all.
+      </p>
     </li>
     <li>
       <h5>Will using a framework make this project more efficient?</h5>
-      <p>test</p>
+      <p>
+        When you are serving a product with a high volume of user activity and engagement, and cannot afford to waste an extra second on shutting down servers, identifying problems, and iterating over edits to clear bugs, support from a framework's team could help remdying that problem. The
+      </p>
     </li>
-  </ol>
+  </ul>
 <br>
 
 ### Bootstrap, thus far
