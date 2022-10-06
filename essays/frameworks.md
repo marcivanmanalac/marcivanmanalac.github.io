@@ -52,9 +52,11 @@ Being able to simplify lines of code for layouts such as containers, grids, and 
     <img width="500px" class="img-thumbnail" src="../img/frameworks/bootstrap-grid.png" style="text-align: center;">
   </div>
   <br>
+  <br>
 
-  ```
-  ```
+
+
+  ```python
   <div class="container text-center">
     <div class="row">
       <div class="col">
@@ -69,12 +71,18 @@ Being able to simplify lines of code for layouts such as containers, grids, and 
     </div>
   </div>
   ```
-  ```
 
-I also enjoyed using the bootstrap 5 components for blocks such as navigation bars as well as the wide selection of icons you can select from.
+<br>
+<br>
+I also enjoyed using the bootstrap 5 components for blocks such as navigation bars as well as the wide selection of icons you can select from. Using bootstrap 5's predefined classes paired with the ability to copy and paste icons directly into code simplify the process of creating responsive websites.
 <div class="text-center p-4">
-  <img width="400px" class="img-thumbnail" src="../img/frameworks/icons.png" style="text-align: center;">
+  <img width="500px" class="img-thumbnail" src="../img/frameworks/icons.png" style="text-align: center;">
+  <img width="500px" class="img-thumbnail" src="../img/frameworks/copy-paste.png" style="text-align: center;">
 </div>
+
+<br>
+<br>
+
 
 
 
