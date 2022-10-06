@@ -13,11 +13,12 @@ labels:
 ### The User Interface
 <div>
   <img width="300px" class="rounded float-start pe-4" src="https://media.giphy.com/media/QDyukdol3oH4K94iwy/giphy.gif">
-  User Interfaces (UI) are an important medium between users and computers and their applications to the world wide web. They have evolved exponentially over the years. Since the release of Apple Macintosh's Graphical User Interface (GUI) Computer in 1984, they have become a staple in every computing device. As computer useage has grown, so too has the importance of User Interfaces for the applications and websites we access day to day. Over 4.9 billion or 62% of the world's population use the internet, and that demand has allowed for expansion of various development tools such as web frameworks. 
-  Frameworks are extremely good taking standard UI development practices such as creating and utilizing containers, handling spacing between different elements, or styling a web page, and creating well-organized and responsive shortcuts to fit the developers needs.  
+  User Interfaces (UI) are an important medium between users and computers and their applications to the world wide web. They have evolved exponentially over the years. Since the release of Apple Macintosh's Graphical User Interface (GUI) Computer in 1984, they have become a staple in every computing device. As computer useage has grown, so too has the importance of User Interfaces for the applications and websites we access day to day. Over 4.9 billion or 62% of the world's population use the internet, and that demand has allowed for expansion of various development tools such as web frameworks.
+  <br> <br>
+  Frameworks are extremely good taking standard UI development practices such as creating and utilizing containers, handling spacing between different elements, or styling a web page, and creating well-organized and responsive shortcuts to fit the developers needs.<br>  
   The only caviat is that these frameworks are often extensive and have a learning curve. Using cascading style sheets (CSS) and hyper-text markup languag (HTML) are common place staples in web development so why do we bother using them?
 </div>
-
+<br>
 
 ### Pros and Cons
   We can treat web development like a roadmap. Before starting our trip, we need to take into account of all the paths we can take and which one will lead us to our destination in the most efficient way possible. When weighing out the different options on whether to use a framework or not you should ask yourself:
@@ -49,7 +50,7 @@ While it has only been a week since we began our UI design module, I have come t
 <br> 
 Being able to simplify lines of code for layouts such as containers, grids, and columns was a much welcomed relief.
   <div class="text-center p-4">
-    <img width="500px" class="img-thumbnail" src="../img/frameworks/bootstrap-grid.png" style="text-align: center;">
+    <img width="650px" class="img-thumbnail" src="../img/frameworks/bootstrap-grid.png" style="text-align: center;">
   </div>
   <br>
   <br>
@@ -82,6 +83,7 @@ I also enjoyed using the bootstrap 5 components for blocks such as navigation ba
 
 <br>
 <br>
+I have to admit, that while they make it as simple and intuitive as possible to utilize framework tools, it does take some time getting used to the workflow On top worrying about design and efficiency of the site, it was a bit of extra work scouring the bootstrap documents for guidance when working on a project. However, once you are able to recall a handful of useful tools, then the cost of time learning the framework begins to pay itself off. Overall, I am confident in my ability to learn to integrate frameworks into my projects and I do recommend being able to understand how to use them because of their ease of use and seemingly ubiquitous existence in moderm web development.
 
 
 
