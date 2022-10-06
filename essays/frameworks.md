@@ -48,9 +48,10 @@ labels:
 While it has only been a week since we began our UI design module, I have come to develop a fondness and respect for frameworks like bootstrap 5. And since beginning to use HTML and CSS the week prior, I have had to spend more time than I would like, going back and forth between my index page and style sheet, debugging seemingly minor errors. And while I'm sure that in time my abilities would improve, I don't mind getting the extra help frameworks provide.
 <br> 
 Being able to simplify lines of code for layouts such as containers, grids, and columns was a much welcomed relief.
-<div> 
-  <img width="400px" class="img-thumbnail" src="../img/frameworks/bootstrap-grid.png">
-  ```HTML
+
+  <img width="400px" class="img-thumbnail" src="../img/frameworks/bootstrap-grid.png" style="text-align: center;">
+
+  ```
   <div class="container text-center">
     <div class="row">
       <div class="col">
@@ -65,9 +66,12 @@ Being able to simplify lines of code for layouts such as containers, grids, and 
     </div>
   </div>
   ```
-</div>
 
-I also enjoyed...
+
+I also enjoyed using the bootstrap 5 components for blocks such as navigation bars as well as the wide selection of icons you can select from.
+<div>
+  <img width="400px" class="img-thumbnail" src="../img/frameworks/icons.png" style="text-align: center;">
+</div>
 
 
 
