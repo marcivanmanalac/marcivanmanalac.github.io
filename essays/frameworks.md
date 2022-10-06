@@ -20,7 +20,7 @@ labels:
 
 
 ### Pros and Cons
-  <img width="300px" class="rounded float-start pe-4" src="https://media.giphy.com/media/xT8qBit7YomT80d0M8/giphy.gif" style="float:right;">
+  <img width="300px" class="img-fluid" src="https://media.giphy.com/media/xT8qBit7YomT80d0M8/giphy.gif" style="float:right;">
   We can treat web development like a roadmap. Before starting our trip, we need to take into account of all the paths we can take and which one will lead us to our destination in the most efficient way possible. When weighing out the different options on whether to use a framework or not you should ask yourself:
   <ul>
     <li>
@@ -45,7 +45,9 @@ labels:
 <br>
 
 ### Bootstrap, thus far
-While 
+While it has only been a week since we began our UI design module, I have come to develop a fondness and respect for frameworks. And since beginning to use HTML and CSS the week prior, I have had to spend more time than I would like, going back and forth between my index page and style sheet, debugging seemingly minor errors. And while I'm sure that in time, my abilities would improve, I don't mind getting the extra help frameworks provide.
+<br> 
+Being able to simplify lines of code for row, column containers was a much welcomed relief. As well as... 
 
 
 
