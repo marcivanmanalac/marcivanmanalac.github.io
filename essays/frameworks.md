@@ -20,9 +20,9 @@ labels:
 
 
 ### Pros and Cons
-  <img width="300px" class="img-fluid" src="https://media.giphy.com/media/xT8qBit7YomT80d0M8/giphy.gif" style="float:right;">
   We can treat web development like a roadmap. Before starting our trip, we need to take into account of all the paths we can take and which one will lead us to our destination in the most efficient way possible. When weighing out the different options on whether to use a framework or not you should ask yourself:
-  <ul>
+  <ul>  
+    <img width="300px" class="img-fluid" src="https://media.giphy.com/media/xT8qBit7YomT80d0M8/giphy.gif" style="float:right;">
     <li>
       <h5>What are you trying to accomplish?</h5>
       <p>
@@ -45,9 +45,29 @@ labels:
 <br>
 
 ### Bootstrap, thus far
-While it has only been a week since we began our UI design module, I have come to develop a fondness and respect for frameworks. And since beginning to use HTML and CSS the week prior, I have had to spend more time than I would like, going back and forth between my index page and style sheet, debugging seemingly minor errors. And while I'm sure that in time, my abilities would improve, I don't mind getting the extra help frameworks provide.
+While it has only been a week since we began our UI design module, I have come to develop a fondness and respect for frameworks like bootstrap 5. And since beginning to use HTML and CSS the week prior, I have had to spend more time than I would like, going back and forth between my index page and style sheet, debugging seemingly minor errors. And while I'm sure that in time my abilities would improve, I don't mind getting the extra help frameworks provide.
 <br> 
-Being able to simplify lines of code for row, column containers was a much welcomed relief. As well as... 
+Being able to simplify lines of code for layouts such as containers, grids, and columns was a much welcomed relief.
+<div> 
+  <img width="300px" class="img-thumbnail" src="../img/frameworks/bootstrap-grid.png" style="float:right">
+  ```html
+  <div class="container text-center">
+    <div class="row">
+      <div class="col">
+        Column
+      </div>
+      <div class="col">
+        Column
+      </div>
+      <div class="col">
+        Column
+      </div>
+    </div>
+  </div>
+  ```
+</div>
+
+I also enjoyed...
 
 
 
