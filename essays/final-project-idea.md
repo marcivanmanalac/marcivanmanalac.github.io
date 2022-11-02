@@ -10,6 +10,7 @@ labels:
 ---
 
 *Chegg Copy*
+<br>
 Team: 
 Marc Ivan Manalac
 Aj Patalinghog
@@ -22,14 +23,14 @@ Josh Subia
 
 *The Solution*: Chegg v2 (to be renamed) is an app for students to meet with other students who previously took a course. These students can also post their old notes which will forma  community where students can be helped in the future.
 
-## Approach
-
 ## Mockup Page Ideas
 Some possible mockup pages include:
-Landing page
-User home page
-Admin home page
-User profile page
+<ul>
+  <li>Landing page</li>
+  <li>User home page</li>
+  <li>Admin home page</li>
+  <li>User profile page</li>
+</ul>
 
 ## Use Case Ideas
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
