@@ -12,7 +12,7 @@ labels:
 *Why it matters*
 ### Design Project Mayhem
 <div>
-  <img length="125px" class="rounded float-start pe-4" src="https://media.giphy.com/media/l3q2Wl7Wpz09Z5hfi/giphy.gif">
+  <img width="125px" class="rounded float-start pe-4" src="https://media.giphy.com/media/l3q2Wl7Wpz09Z5hfi/giphy.gif">
   Despite experiencing numerous assignment, programs, projects, and essays during my time in university, it never fails to surprise me how I can make completing my work more difficult than it should be. I sometimes have a tendency to start writing a paper from top to bottom, even if there are sections below I can complete quicker or write computer programs without thinking of an algorithm first. These are all examples of me failing to utilize study and work patterns that have kept me successful in turning in quality work. Things such as getting enough rest, taking proper notes, eating a healthy diet and exercising also play an important role in my efficiency. Similarly, in the world of computers, we can utilize tried and proven design patterns that prevent us from "Reinventing the wheel" everytime we work on a problem. In the next few sections we will discuss some of these design patterns in detail.
 </div>
 <br>
@@ -22,7 +22,7 @@ labels:
 
   In terms of software design, A group of software developers, inspired by Christopher Alexander's views on design patterns, published a <a href="">book</a> on software development patterns. They would later be famously dubbed as the *Gang of Four*. The 23 patterns the authors/developers identified could be broken into three types: Creational, Structural, and Behavioral. Like the the roofs in Alaska, we can identify patterns in our programming objective that can help us find the right solution. 
   <ol>  
-    <img width="200px" class="img-fluid" src="https://media.giphy.com/media/133c9SJrrC2bni/giphy.gif" style="float:right;margin-left:2px;">
+    <img width="225px" class="img-fluid" src="https://media.giphy.com/media/133c9SJrrC2bni/giphy.gif" style="float:right;margin-left:2px;">
     <li>
       <h5>Creational</h5>
       <p>
