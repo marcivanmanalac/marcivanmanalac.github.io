@@ -69,6 +69,90 @@ labels:
     <td>Ensures only one instance of an object is created</td>
  </tr>
 </table>
+<table>
+    <tr>
+        <th>Structural</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>Adapter</td>
+        <td>Allows for two incompatible classes to work together by wrapping an interface around one of the existing classes.</td>
+    </tr>
+    <tr>
+        <td>Bridge</td>
+        <td>Decouples an abstraction so two classes can vary independently.</td>
+    </tr>
+    <tr>
+        <td>Composite</td>
+        <td>Takes a group of objects into a single object.</td>
+    </tr>
+    <tr>
+        <td>Decorator</td>
+        <td>Allows for an object’s behavior to be extended dynamically at run time.</td>
+    </tr>
+    <tr>
+        <td>Facade</td>
+        <td>Provides a simple interface to a more complex underlying object.</td>
+    </tr>
+    <tr>
+        <td>Flyweight</td>
+        <td>Reduces the cost of complex object models.</td>
+    </tr>
+    <tr>
+        <td>Proxy</td>
+        <td>Provides a placeholder interface to an underlying object to control access, reduce cost, or reduce complexity.</td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th>Behavioral</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>Interpreter</td>
+        <td>Implements a specialized language.</td>
+    </tr>
+    <tr>
+        <td>Chain of Responsibility</td>
+        <td>Delegates commands to a chain of processing objects.</td>
+    </tr>
+    <tr>
+        <td>Command</td>
+        <td>Creates objects which encapsulate actions and parameters.</td>
+    </tr>
+    <tr>
+        <td>Iterator</td>
+        <td>Accesses the elements of an object sequentially without exposing its underlying representation.</td>
+    </tr>
+    <tr>
+        <td>Mediator</td>
+        <td>Allows loose coupling between classes by being the only class that has detailed knowledge of their methods</td>
+    </tr>
+    <tr>
+        <td>Memento</td>
+        <td>Provides the ability to restore an object to its previous state.</td>
+    </tr>
+    <tr>
+        <td>Observer</td>
+        <td>Is a publish/subscribe pattern which allows a number of observer objects to see an event.</td>
+    </tr>
+    <tr>
+        <td>State</td>
+        <td>Allows an object to alter its behavior when its internal state changes.</td>
+    </tr>
+    <tr>
+        <td>Strategy</td>
+        <td>Allows one of a family of algorithms to be selected on-the-fly at run-time.</td>
+    </tr>
+    <tr>
+        <td>Template Method</td>
+        <td>Defines the skeleton of an algorithm as an abstract class, allowing its sub-classes to provide concrete behavior.</td>
+    </tr>
+    <tr>
+        <td>Visitor</td>
+        <td>Separates an algorithm from an object structure by moving the hierarchy of methods into one object.</td>
+    </tr>
+</table>
 ### Putting Patterns to Practice
 While it has only been a week since we began our UI design module, I have come to develop a fondness and respect for frameworks like bootstrap 5. And since beginning to use HTML and CSS the week prior, I have had to spend more time than I would like, going back and forth between my index page and style sheet, debugging seemingly minor errors. And while I'm sure that in time my abilities would improve, I don't mind getting the extra help frameworks provide.
 <br> <br>
