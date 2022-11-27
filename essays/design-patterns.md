@@ -49,24 +49,24 @@ labels:
     <th>Description</th>
  </tr>
  <tr>
-    <th>Abstract Factory</th>
-    <th>Allows the creation of objects without specifying their concrete type.</th>
+    <td>Abstract Factory</td>
+    <td>Allows the creation of objects without specifying their concrete type.</td>
  </tr>
  <tr>
-    <th>Builder</th>
-    <th>Uses to create complex objects.</th>
+    <td>Builder</td>
+    <td>Uses to create complex objects.</td>
  </tr>
  <tr>
-    <th>Factory Method</th>
-    <th>Creates objects without specifying the exact class to create.</th>
+    <td>Factory Method</td>
+    <td>Creates objects without specifying the exact class to create.</td>
  </tr>
  <tr>
-    <th>Prototype</th>
-    <th>Creates a new object from an existing object.</th>
+    <td>Prototype</td>
+    <td>Creates a new object from an existing object.</td>
  </tr>
  <tr>
-    <th>Singleton</th>
-    <th>Ensures only one instance of an object is created</th>
+    <td>Singleton</td>
+    <td>Ensures only one instance of an object is created</td>
  </tr>
 </table>
 ### Putting Patterns to Practice
