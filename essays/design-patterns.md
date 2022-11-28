@@ -12,7 +12,7 @@ labels:
 *Why it matters*
 ### Design Project Mayhem
 <div>
-  <img width="150px" class="rounded float-start pe-4" src="https://media.giphy.com/media/l3q2Wl7Wpz09Z5hfi/giphy.gif">
+  <img width="180px" class="rounded float-start pe-4" src="https://media.giphy.com/media/l3q2Wl7Wpz09Z5hfi/giphy.gif">
   Despite experiencing numerous assignment, programs, projects, and essays during my time in university, it never fails to surprise me how I can make completing my work more difficult than it should be. I sometimes have a tendency to start writing a paper from top to bottom, even if there are sections below I can complete quicker or write computer programs without thinking of an algorithm first. These are all examples of me failing to utilize study and work patterns that have kept me successful in turning in quality work. Things such as getting enough rest, taking proper notes, eating a healthy diet and exercising also play an important role in my efficiency. Similarly, in the world of computers, we can utilize tried and proven design patterns that prevent us from "Reinventing the wheel" everytime we work on a problem. In the next few sections we will discuss some of these design patterns in detail.
 </div>
 <br>
