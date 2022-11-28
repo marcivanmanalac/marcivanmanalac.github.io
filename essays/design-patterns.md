@@ -160,12 +160,10 @@ labels:
 <br/>
 
 ### Putting Patterns to Practice
-At a glance, I did not think I was familiar with any of the design patterns listed by the Authors. After all, my experience with object oriented programming is rather short for a computer engineering student. However, after closer inspection, I was surprised to find I counted myself out too early. 
+At a glance, I did not think I was familiar with any of the design patterns listed by the Authors. After all, my experience with object oriented programming is rather short for a computer engineering student. However, after closer inspection, I was surprised to find I counted myself out too early. In terms of Creational design, I recall creating a program which utilized a factory pattern for creating various animals for an *animal farm*. It makes sense that we used a factory method rather than creating each object by hand. However, it was difficult for me to grasp that concept and is still not completely clear to me. For Structural patterns, I have yet to use or come across this pattern, but I can see it being very helpful. Lastly, Behavioral. During this software development course, I was introduced to handling events, subscribers, and publishers for meteor collections which are directly related to Observer patterns.
 
-In terms of Creational design, I recall creating a program which utilized a factory pattern for creating various animals for an *animal farm*. It makes sense that we used a factory method rather than creating each object by hand. However, it was difficult for me to grasp that concept and is still not completely clear to me.
+### More Patterns and Beyond
+Besides the 23 patterns listed above, there are more patterns that have been useful to specific languages such as Javascript as listed in the the <a href="https://patterns.dev">Patterns.dev<a/> site. While older patterns such as flyweight, proxy, and command are still often seen and used, we see the emergence of newer patterns such as hooks introduced in the react library for reusing stateful logic, tree shaking for reducing bundle size by eliminating dead code, progressive hydration to delay loading of less important parts of pages and much more. I have no doubt that as I continue to code and grow as a developer, I will come to know and rely on these patterns more than not as I do with all patterns in my life. As the theoretical physicist Fritjof Capra one said, *The understanding of life begins with the understanding of patterns*.
 
-For Structural patterns, I have yet to use or come across this pattern, but I can see it being very helpful.
-
-Lastly, Behavioral. During this software development course, I was introduced to handling events, subscribers, and publishers for meteor collections which are directly related to Observer patterns.
 
 
