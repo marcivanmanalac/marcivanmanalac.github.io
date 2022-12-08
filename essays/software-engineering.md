@@ -14,7 +14,7 @@ labels:
   <img width="250px" class="rounded float-start pe-4" src="https://media.giphy.com/media/D0RvPABUNF3AQ/giphy.gif" alt="squidward throwing his brain away">
   Once again, I am humbled by how little I actually know about a topic. This time, it is regarding software development. Coming into this course, I thought I watched enough Youtube videos titled, *Learn software dev in 60 seconds*, to know what software development is. A bit of HTML videos here and some CSS tutorials there, but through this semester, I've learned its much more than creating a fancy user interface or having the ability to talk about the newest programming language. 
     <br>
-    In the following sections I will be discussing fundamental concepts that are just as important in software developing that I've learned over the past four months.
+    In the following sections I will be discussing fundamental concepts or pillars of software development that I've learned over the past four months.
   <br>
 </div>
 <br>
@@ -24,7 +24,7 @@ labels:
     <img 
         width="300px" 
         class="img-fluid" 
-        src="https://media.giphy.com/media/D0RvPABUNF3AQ/giphy.gif" 
+        src="https://media.giphy.com/media/26ufbbBRMXrUh22Ig/giphy.gif" 
         alt="squidward throwing his brain away" 
         style="float:right;margin-left:2px;"
     >
