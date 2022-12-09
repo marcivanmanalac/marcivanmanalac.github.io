@@ -12,9 +12,9 @@ labels:
 ### I realized, I know nothing.
 <div>
   <img width="250px" class="rounded float-start pe-4" src="https://media.giphy.com/media/D0RvPABUNF3AQ/giphy.gif" alt="squidward throwing his brain away">
-  Once again, I am humbled by how little I actually know about a topic. This time, it is regarding software development. Coming into this course, I thought I watched enough Youtube videos titled, *Learn software dev in 60 seconds*, to know what software development is. A bit of HTML videos here and some CSS tutorials there, but through this semester, I've learned its much more than creating a fancy user interface or having the ability to talk about the newest programming language. 
+  Once again, I am humbled by how little I actually know about a topic. This time, it is regarding software development. Coming into this course, I thought I watched enough Youtube videos titled, *Learn software dev in 60 seconds*, to know what software development is. A bit of HTML videos here and some CSS tutorials there, but through this semester, I've learned its much more than creating a fancy user interface or having the ability to talk about the newest programming language. It's about uniformity, collaboration, utility, and much more.
     <br>
-    In the following sections I will be discussing fundamental concepts or pillars of software development that I've learned over the past four months.
+    In the following sections I will be discussing fundamental concepts or pillars of software development that I've learned over the past four months. Some of these concepts I've already covered in detail and will have links pointing to those essays.
   <br>
 </div>
 <br>
@@ -32,37 +32,23 @@ labels:
     <li>Configuration Management</li>
     <li>Functional Programming</li>
     <li>Development Environments</li>
-    <li>Coding Standards</li>
-    <li>User Interface Frameworks</li>
+    <li><a href="https://marcivanmanalac.github.io/essays/Coding-Standards.html">Coding Standards</a></li>
+    <li><a href="https://marcivanmanalac.github.io/essays/frameworks.html">User Interface Frameworks</a></li>
     <li>Agile Project Management</li>
-    <li>Design Patterns</li>
+    <li><a href="https://marcivanmanalac.github.io/essays/design-patterns.html">Design Patterns</a></li>
     <li>Ethics in Software Engineering</li>
   </ol>
 </div>
 <br>
 
 ### Open Source Software Development
+Open source is one of my favorite parts of software development. The idea of people from all over the world, banding together to solve common problems really inspires me. It empowers developers and contributors to *do good* in a virtual sense. Being able to communicate in a distributed and asynchronous fashion with a community of like minded individuals with the same or more experience than you makes you feel less alone when solving problems. This on top of the *feel good* moments from helping others with programming issues, or fixing a bug is intrinsically rewarding on its own. Paired with having a *living resume* of your contributions on GitHub for potential employers, open source software development is a one of the most important pillars of software.
 
-### Configuration Management
-
-### Functional Programming
-
-### Development Environments
-
-### Coding Standards
-
-### User Interface Frameworks
-
-### Agile Project Management
-
-### Design Patterns
-
-### Ethics in Software Engineering
+### Configuration Management and Version Control
+I spoke briefly about GitHub earlier and the concept of having a *living resume* for potential employers to see. Although that is a nice addon feature, it is not GitHubs sole purpose. GitHub was born out of necessity for  configuration management and version control. At one point in time, developers needed to track errors and specific software configurations by hand, which made it difficult when working with others. Working with others with different coding styles and backgrounds also made it difficult to blend group code together. Configuration management helps us track and identify all system configuration and version control helps us manage different versions of a software. Git enables decentralized development and GitHub helps us manage our code repository and host our code. The power of configuration management and version control is in full display for big code bases like the <a href="https://github.com/microsoft/vscode">VSCode Project</a>. For this repository, there are over 1700 contributors, 635 branches or versions of the code, and over 5000 issues they are solving and or have solved.
 
 ### Onward
-Although coding standards change based on the people, companies, or projects you work on, it is best to get used to them. At the very least, being able to understand them and to apply them into your code at any given moment. Like moving to a different country, it would behoove you to adopt their customs, courtesies, and language. To be able to communicate effectively, to understand others and to be understood is the most important factor when it comes to your success a programming environment.
-
-For me, I will continue to do my best to add some of those standards in my everyday coding and stay open and flexible to applying new ones to assimilate to my current coding environment. With the plethora of tools available to us, what do we have to lose? 
+What a journey this has been. While I reach the end of my formal education in undergraduate computer engineering, I begin a new one in software development. I now have the know-how and the fortitude(somewhat) to pick an open source project to assist in. I can write legible code utilizing useful development environments. I can help other developers and get help solving problems. I can navigate through simple coding frameworks and collaborate with a team using agile team management. I am looking forward to failing, learning, and immersing myself in the digital world.
 
 
 
