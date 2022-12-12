@@ -12,7 +12,7 @@ labels:
 ### I realized, I know nothing.
 <div>
   <img width="260px" class="rounded float-start pe-4" src="https://media.giphy.com/media/D0RvPABUNF3AQ/giphy.gif" alt="squidward throwing his brain away">
-  Once again, I am humbled by how little I actually know about a topic. This time, it is regarding software development. Coming into this course, I thought I watched enough Youtube videos titled, *Learn software dev in 60 seconds*, to know what software development is. A bit of HTML videos here and some CSS tutorials there, but through this semester, I've learned its much more than creating a fancy user interface or having the ability to talk about the newest programming language. It's about uniformity, collaboration, utility, and much more.
+  Once again, I am humbled by how little I actually know about a topic. This time, it is regarding software development. Coming into this course, I thought I watched enough Youtube videos titled, "Learn software dev in 60 seconds", to know what software development is. A bit of HTML videos here and some CSS tutorials there, but through this semester, I've learned its much more than creating a fancy user interface or having the ability to talk about the newest programming language. It's about uniformity, collaboration, utility, and much more.
     <br>
     In the following sections I will be discussing fundamental concepts or pillars of software development that I've learned over the past four months. Some of these concepts I've already covered in detail and will have links pointing to those essays.
   <br>
@@ -20,24 +20,26 @@ labels:
 <br>
 <br>
 <div>
-  <ol>
-    <img 
-        width="250px" 
-        class="img-fluid" 
-        src="https://media.giphy.com/media/26ufbbBRMXrUh22Ig/giphy.gif" 
-        alt="squidward throwing his brain away" 
-        style="float:right;margin-left:2px;"
-    >
-    <li>Open Source Software Development.</li>   
-    <li>Configuration Management</li>
-    <li>Functional Programming</li>
-    <li>Development Environments</li>
-    <li><a href="https://marcivanmanalac.github.io/essays/Coding-Standards.html">Coding Standards</a></li>
-    <li><a href="https://marcivanmanalac.github.io/essays/frameworks.html">User Interface Frameworks</a></li>
-    <li>Agile Project Management</li>
-    <li><a href="https://marcivanmanalac.github.io/essays/design-patterns.html">Design Patterns</a></li>
-    <li>Ethics in Software Engineering</li>
-  </ol>
+    <row>
+      <ol>
+        <img 
+            width="250px" 
+            class="img-fluid" 
+            src="https://media.giphy.com/media/26ufbbBRMXrUh22Ig/giphy.gif" 
+            alt="squidward throwing his brain away" 
+            style="float:right;margin-left:2px;"
+        >
+        <li>Open Source Software Development.</li>   
+        <li>Configuration Management</li>
+        <li>Functional Programming</li>
+        <li>Development Environments</li>
+        <li><a href="https://marcivanmanalac.github.io/essays/Coding-Standards.html">Coding Standards</a></li>
+        <li><a href="https://marcivanmanalac.github.io/essays/frameworks.html">User Interface Frameworks</a></li>
+        <li>Agile Project Management</li>
+        <li><a href="https://marcivanmanalac.github.io/essays/design-patterns.html">Design Patterns</a></li>
+        <li>Ethics in Software Engineering</li>
+      </ol>
+    </row>
 </div>
 <br>
 
