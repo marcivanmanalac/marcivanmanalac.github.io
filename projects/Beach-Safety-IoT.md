@@ -28,7 +28,7 @@ There are a wide array of hazards when it comes to the ocean. These are a few st
 </ul>
 </div>
 
-With that in mind, conclulded that our solution should be an outdoor warning system for the many unattended beaches on Hawaii.
+With that in mind, concluded that our solution should be an outdoor warning system for the many unattended beaches on Hawaii.
 
 <div class="text-center p-4">
 <video width="640" height="480" controls>
