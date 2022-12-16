@@ -4,7 +4,7 @@ type: essay
 title: "My code isn't working..."
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-01
-published: true
+published: false
 labels:
   - StackOverflow
   - Software Engineering

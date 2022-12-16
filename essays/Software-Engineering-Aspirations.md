@@ -4,7 +4,7 @@ type: essay
 title: "Software Engineering"
 # All dates must be YYYY-MM-DD format!!
 date: 2022-08-30
-published: true
+published: false
 labels:
   - Thoughts
 ---
