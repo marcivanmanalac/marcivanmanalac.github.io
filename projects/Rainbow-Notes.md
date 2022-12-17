@@ -13,7 +13,7 @@ labels:
 summary: "Open-Source note sharing application"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2GH6HxESH2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float:right; margin-right:5px"></iframe>
+<iframe width="476" height="268" src="https://www.youtube.com/embed/2GH6HxESH2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="float:right; margin-right:5px"></iframe>
 
 Rainbow Notes is an application built during the semester of Spring 2022, in the ICS-314 course for Software Development.
 
