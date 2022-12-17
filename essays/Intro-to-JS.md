@@ -4,7 +4,7 @@ type: essay
 title: "Intro to JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-27
-published: true
+published: false
 labels:
   - JavaScript
 ---
