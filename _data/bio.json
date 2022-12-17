@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Marc Ivan Manalac",
+    "label": "Student",
+    "picture": "https://github.com/marcivanmanalac.png",
+    "email": "marcivan@hawaii.edu",
+    "phone": "Email for more info",
+    "website": "https://marcivanmanalac.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Computer & Electrical Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "marcivanmanalac", "url": "http://github.com/marcivanmanalac" },
+      { "network": "linkedin", "username": "mimanalac", "url": "http://linkedin.com/in/mimanalac" }
+    ]
+  },
+  "interests": [
+    { "name": "Single Board Computers" },
+    { "name": "Drones" },
+    { "name": "Robotics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "BASH", "Javascript", "Verilog" ]
+    },
+    {
+      "name": "Software Toolsets/OS",
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++", "Autocad Fusion360", "MATLab" ]
+    },
+    {
+      "name":"Hardware Tools",
+      "keywords":["Soldering, Ender3 Pro 3D Printer, Arduino, Raspberry Pi, Pixhawk"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-01",
+      "endDate": "Present",
+      "courses": ["Circuits I & II","Digital Design", "Intro to Programming C", "Intro to OOP C++", "Data Structure & Algorithms",
+                  "Microelectronic Circuits"]
+    }
+  ],
+  "work": [
+    {
+      "company": "NIWC Pacific",
+      "position": "Computer Engineering Intern",
+      "website": "",
+      "startDate": "2022-06-17",
+      "endDate": "Present",
+      "summary": "Intern for 5G UAV Project",
+      "highlights": [
+        "Assisted in testing and integration of self-landing system onboard UAV",
+        "Programmed drone companion computer raspberry pi"
+      ]
+    }
+  ],
+    
+  "awards": [
+    {
+      "title": "SFS CyberCorp Scholarship",
+      "date": "2021-Present",
+      "awarder": "U.S. Office of Personnel Management",
+      "summary": "Scholarships awarded to students working on Computer related degrees that are motivated to serve the Federal Government upon graduation."
+    },
+    {
+      "title": "Finalist",
+      "date": "2020",
+      "awarder": "National Security Innovation Network",
+      "summary": "Placed in top ten teams for NSIN Beat-the-Blaze hackathon out of 400 participants"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

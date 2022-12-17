@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Drone Build | Marc Ivan Manalac | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/marcivanmanalac.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Marc Ivan Manalac | Professional Portfolio">
+    <meta property="og:url" content="https://marcivanmanalac.github.io/projects/personal-drone.html">
+    <meta property="og:title" content="Drone Build | Marc Ivan Manalac | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/marcivanmanalac.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/my_theme.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/molokai.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Drone Build | Marc Ivan Manalac | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Marc Ivan Manalac</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Drone Build</h1>
+ <h3 id="about-open-source-drone-building">About Open Source Drone Building</h3>
+<p><img width="200px" height="200px" class="rounded float-start pe-4" src="../img/drone/drone_n_flynn_fixated.jpg" />
+I have been experimenting with building drones that use open source hardware and software starting in the middle of Summer 2022. The two most popular <em>autopilot</em> softwares are called PX4 and ArduPilot. The software is loaded onto a flight controller which controls the drones motors, esc’s, and peripherals such as GPS, SiK Telemetry Radios, Receivers. The flight controller then sends this data down to a Ground Control Station(GCS) via the open source middleware MAVLink protocol. This image below shows the standard layout using the open standard pixhawk hardware.</p>
+<div>
+  <img width="400px" height="400px" class="img-thumbnail" src="https://ardupilot.org/copter/_images/Pixhawk-Inforgraphic2.jpg" style="float:right;" />
+</div>
+
+<h3 id="relevance-to-engineering">Relevance to Engineering</h3>
+<p>Drones have become widely available for public and private users with a growing array of applications. Not only do they make for extraordinary cinematic videos, but they are also capable of being equipped with a multitude of sensors  and computers to conduct complex tasks such as spraying pesticides within an area, counting livestock, mapping live wildfires and more. I found that building a drone would allow me to put my new found engineering knowledge to practical use. Some tasks I would need to complete to get started are:</p>
+<ol>
+  <li>Create circuit diagrams to map out the vehicle, computer, and sensor current draw and power.</li>
+  <li>Calculate flight time based on weight, thrust, and battery capabilities</li>
+  <li>Program the onboard computer companion to manage processes for sensors manage communicating with AutoPilot</li>
+  <li>Program Ground Control Station to receive and analyze incoming data</li>
+  <li>3D print custom housing to fix components onto system</li>
+</ol>
+
+<h3 id="planning">Planning</h3>
+<p>The power of the software lies in it’s autonomous capabilities. With either of the autopilots, we are able to create waypoints, set missions, and affect the vehicles behavior with a variety of sensors and secondary devices. All of this can be done without a pilot directly controlling the drone through a transmitter. 
+In my project, I am equipping the vehicle with an onboard computer companion raspberry pi, which will act as an autonomous pilot that gives commands to the vehicle based on it’s programmed responses to it’s inputs. Moving forward, I plan on experimenting on open source computer vision libraries such as OpenCV to control the vehicle based on video feedback response. I also plan on using a Lidar to conduct autonomous 3d mapping of terrains.</p>
+
+<p>I initially believed that the process would be a linear one, but I have recently learned that there are certain restraints and setbacks such as supply chain issues, hardware malfunctions, firmware version bugs, and knowledge bottlenecks that make for a more complex process.</p>
+<div class="text-center p-4">
+  <img width="900px" class="img-thumbnail" src="../img/drone/drone-build-process.png" />
+</div>
+
+<h3 id="progress">Progress</h3>
+<p>At the time of writing this, I am in an iterative process to get my drone in the air solely with it’s avionic components and without a computer companion or extra sensors. I am currently in the calibration and test autopilot phase of my schedule, I’m hoping to get flying by the end of the Fall 2022 semster.</p>
+<div class="text-center p-4">
+    <img width="900px" class="img-thumbnail" src="../img/drone/dbpa-svg.svg" />
+</div>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
