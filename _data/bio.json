@@ -6,7 +6,7 @@
     "email": "marcivan@hawaii.edu",
     "phone": "Email for more info",
     "website": "https://marcivanmanalac.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Computer & Electrical Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "summary": "I am a B.S. Computer Engineering Graduate from the Department of Computer & Electrical Engineering at the University of Hawaii at Manoa, Fall 2022.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "marcivanmanalac", "url": "http://github.com/marcivanmanalac" },
@@ -16,7 +16,9 @@
   "interests": [
     { "name": "Single Board Computers" },
     { "name": "Drones" },
-    { "name": "Robotics" }
+    { "name": "Deep Learning"},
+    { "name": "Robotics" },
+    { "name": "Surfing"}
   ],
   "skills": [
     {
@@ -29,18 +31,34 @@
     },
     {
       "name":"Hardware Tools",
-      "keywords":["Soldering, Ender3 Pro 3D Printer, Arduino, Raspberry Pi, Pixhawk"]
+      "keywords":["Soldering, 3D Modeling for Additive Manufacturing, Arduino, Raspberry Pi, Pixhawk"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2022)",
+      "area": "Computer Engineering Fall, 2022",
       "studyType": "B.S.",
       "startDate": "2019-08-01",
-      "endDate": "Present",
-      "courses": ["Circuits I & II","Digital Design", "Intro to Programming C", "Intro to OOP C++", "Data Structure & Algorithms",
-                  "Microelectronic Circuits"]
+      "endDate": "2022-12-16",
+      "courses": [  "Circuit Analysis I, II",
+                    "Calculus I, II, III, IV",
+                    "Physics I, II",
+                    "Electromagnetics",
+                    "Programming for Engineers (C Language)",
+                    "Object Oriented Programming ( C++)",
+                    "Circuit Analysis I, II",
+                    "Signals and Systems Analysis",
+                    "Microelectronic Circuits",
+                    "Linear Algebra & Differential Equations, Discrete Math",
+                    "Digital Systems and Computer Design",
+                    "Computer Data Structures and Algorithms",
+                    "Software Engineering (JavaScript, MongoDB, React)",
+                    "Sensors & Instrumentation for Biological systems",
+                    "Operating Systems",
+                    "Digital Design",
+                    "Cyber-Physical Systems and Internet of Things",
+                    "Computer & Network Security"]
     }
   ],
   "work": [
@@ -49,7 +67,7 @@
       "position": "Computer Engineering Intern",
       "website": "",
       "startDate": "2022-06-17",
-      "endDate": "Present",
+      "endDate": "2022-12-16",
       "summary": "Intern for 5G UAV Project",
       "highlights": [
         "Assisted in testing and integration of self-landing system onboard UAV",
