@@ -8,17 +8,21 @@ published: true
 labels:
   - Deep Learning
   - Object Detection
+  - Computer Vision
   - Hawaii
 summary: "A.I. for the Islands"
 ---
 
-## Full disclosure
-This article used the power of chat-based AI, Bing Chat. 
-
 ## CRB
+Full Disclosure:
+This article used the power of chat-based AI, Bing Chat. 
+<br>
 Coconut Rhinoceros Beetles (CRB) have made their way to the island of O'ahu and have been wreaking havoc on local palm trees and other plants.  They are invasive pests that attacks palm trees and other plants in Hawaii. It was first detected on O'ahu in December 2013. It is native to Southeast Asia and can grow up to 2 inches long. It bores into the crowns or tops of palm trees where it damages growing tissue and feeds on sap. This can reduce coconut production and kill the tree. The CRB also poses a threat to other native plants such as banana, taro, pineapple, sugarcane, papaya, ginger, heliconia and ti.
 <div class="text-center p-4">
-  <img class="img-thumbnail" src="../img/crb/crb-two-beetles.png" width="800px">
+  <row>
+    <img class="img-thumbnail" src="../img/crb/crb-two-beetles.jpg" width="400px">
+    <img class="img-thumbnail" src="../img/crb/crb-tree-2.jpg" width="400px">
+  </row>
 </div>
 
 ## Goal
@@ -35,10 +39,10 @@ Starting with a dataset of 200 flight images of three flights over highly infest
   <img class="img-thumbnail" src="../img/crb/crb-data-prep.png" width="800px">
 </div>
 
-The dataset was labeled completely by the end of the course, but is in the process of being cleaned and validated as there were major errors in labeling using older python tools. I am currently utilizing the <a href="https://roboflow.com/">roboflow application</a> to complete this process. I was able to generate models with extremely poor accuracy utilizing Tensorflow Keras, RESNET50 transferred learning CNN, but did not take into account bounding boxes when writing the Google colab script.
+The dataset was labeled completely by the end of the course, but is in the process of being cleaned and validated as there were major errors in labeling using older python tools. I am currently utilizing the <a href="https://roboflow.com/">roboflow application</a> to complete this process. Roboflow is a developer tool for building computer vision models faster and more accurately. It streamlines the process between labeling your data and training your model. It also helps you identify edge cases and deploy fixes. I was able to generate models with extremely poor accuracy utilizing Tensorflow Keras, RESNET50 transferred learning CNN, but did not take into account bounding boxes when writing the Google colab script.
 
 <div class="text-center p-4">
-  <img class="img-thumbnail" src="../img/crb/crb-current-data" width="800px">
+  <img class="img-thumbnail" src="../img/crb/crb-current-data.png" width="800px">
 </div>
 
 ## Future
