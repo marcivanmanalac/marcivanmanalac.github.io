@@ -18,12 +18,13 @@ Full Disclosure:
 This article used the power of chat-based AI, Bing Chat. 
 <br>
 <img class="img-thumbnail" src="../img/crb/crb-two-beetles.jpg" width="300px" style="float:right;">
-Coconut Rhinoceros Beetles (CRB) have made their way to the island of O'ahu and have been wreaking havoc on local palm trees and other plants.  They are invasive pests that attacks palm trees and other plants in Hawaii. It was first detected on O'ahu in December 2013. It is native to Southeast Asia and can grow up to 2 inches long. It bores into the crowns or tops of palm trees where it damages growing tissue and feeds on sap. This can reduce coconut production and kill the tree. The CRB also poses a threat to other native plants such as banana, taro, pineapple, sugarcane, papaya, ginger, heliconia and ti.
+Orcytes Rhinoceros or Coconut Rhinoceros Beetles (CRB) have made their way to the island of O'ahu and have been wreaking havoc on local palm trees and other plants.  They are invasive pests that attacks palm trees and other plants in Hawaii. It was first detected on O'ahu in December 2013. It is native to Southeast Asia and can grow up to 2 inches long. It bores into the crowns or tops of palm trees where it damages growing tissue and feeds on sap. This can reduce coconut production and kill the tree. The CRB also poses a threat to other native plants such as banana, taro, pineapple, sugarcane, papaya, ginger, heliconia and ti.
 
 
 
 ## Goal
-<img class="img-thumbnail" src="../img/crb/crb-tree-2.jpg" width="300px" style="float:left;">This project aims to address the time-consuming task of identifying, counting, and logging geo-location of palms. Once the model is trained and accurately identifying CRB-infested palms, it can be deployed to receive commercial drone imagery, identify infested trees, and scrape GPS metadata from imagery to produce visuals for predicting CRB movement throughout the island.
+<img class="img-thumbnail" src="../img/crb/crb-tree-2.jpg" width="300px" style="float:left;">
+This project aims to address the time-consuming task of identifying, counting, and logging geo-location of palms affected by the coconut rhinorceros beetles. This is done using drone image captures at 250ft above ground level(AGL). Once the object-detection model is trained and accurately identifying CRB-infested palms, it can be deployed to receive publicly available drone imagery, identify infested and healthy trees, and scrape GPS metadata from imagery to produce visuals for predicting CRB movement throughout the island. This model can help redirect man power and resources towards creating solutions for mitigating further infestation.
 <div class="text-center p-4">
   <img class="img-thumbnail" src="../img/crb/crb-tree.png" width="800px">
 </div>
