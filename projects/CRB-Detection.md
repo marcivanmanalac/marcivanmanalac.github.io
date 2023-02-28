@@ -17,7 +17,7 @@ summary: "A.I. for the Islands"
 Full Disclosure:
 This article used the power of chat-based AI, Bing Chat. 
 <br>
-<img class="img-thumbnail" src="../img/crb/crb-two-beetles.jpg" width="300px" style="float:right;">
+<img class="img-thumbnail" src="../img/crb/crb-two-beetles.jpg" width="300px" style="float:right;margin:20px">
 <p style="padding:10px; margin:20px;">Orcytes Rhinoceros or Coconut Rhinoceros Beetles (CRB) have made their way to the island of O'ahu and have been wreaking havoc on local palm trees and other plants.  They are invasive pests that attacks palm trees and other plants in Hawaii. It was first detected on O'ahu in December 2013. It is native to Southeast Asia and can grow up to 2 inches long. It bores into the crowns or tops of palm trees where it damages growing tissue and feeds on sap. This can reduce coconut production and kill the tree. The CRB also poses a threat to other native plants such as banana, taro, pineapple, sugarcane, papaya, ginger, heliconia and ti.</p>
 
 
@@ -29,7 +29,7 @@ This article used the power of chat-based AI, Bing Chat.
 </p>
 <br>
 <div class="text-center p-4">
- <iframe src="https://giphy.com/embed/2tsYAyWidPCIxnDN5f" width="960" height="540" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ai-machine-learning-deep-learning-2tsYAyWidPCIxnDN5f"></a></p>
+ <iframe src="https://giphy.com/embed/2tsYAyWidPCIxnDN5f" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ai-machine-learning-deep-learning-2tsYAyWidPCIxnDN5f"></a></p>
 </div>
 
 ## Process
