@@ -49,19 +49,15 @@ Starting with a dataset of 200 flight images of three flights over highly infest
 </div>
 <p>This output was generated utilizing YOLOV8, with the current, poorly labeled data in 25 epochs. As the dataset is cleaned and increased, we can expect the models loss and accuracy to increase</p>
 <div class="text-center p-4">
-  <col>
-    <row>
-      <img class="img-thumbnail" src="../img/crb/crb-current-data.png" width="800px">
-    </row>
     <row>
       <img class="img-thumbnail" src="../img/crb/confusion_matrix.png" width="800px">
       <img class="img-thumbnail" src="../img/crb/results.png" width="800px">
     </row>
     <row>
-      <img class="img-thumbnail" src="../img/crb/val_batch0_pred.jpg" width="800px">
-      <img class="img-thumbnail" src="../img/crb/val_batch0_labels.jpg" width="800px">
+      <img class="img-thumbnail" src="../img/crb/val_batch0_pred.jpg" width="400px">
+      <img class="img-thumbnail" src="../img/crb/val_batch0_labels.jpg" width="400px">
     </row>    
-  </col>
+    <p> A sample of the predicted objected vs. Actual objects.</p>
 </div>
 
 ## Future
