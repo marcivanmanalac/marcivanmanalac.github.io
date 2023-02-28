@@ -29,7 +29,7 @@ This article used the power of chat-based AI, Bing Chat.
 </p>
 <br>
 <div class="text-center p-4">
-  <img class="img-thumbnail" src="https://media.giphy.com/media/2tsYAyWidPCIxnDN5f/giphy.gif../img/crb/crb-tree.png" width="1000px"><iframe src="https://giphy.com/embed/2tsYAyWidPCIxnDN5f" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ai-machine-learning-deep-learning-2tsYAyWidPCIxnDN5f"></a></p>
+ <iframe src="https://giphy.com/embed/2tsYAyWidPCIxnDN5f" width="960" height="540" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ai-machine-learning-deep-learning-2tsYAyWidPCIxnDN5f"></a></p>
 </div>
 
 ## Process
