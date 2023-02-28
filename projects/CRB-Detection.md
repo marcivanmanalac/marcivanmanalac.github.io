@@ -18,18 +18,18 @@ Full Disclosure:
 This article used the power of chat-based AI, Bing Chat. 
 <br>
 <img class="img-thumbnail" src="../img/crb/crb-two-beetles.jpg" width="300px" style="float:right;">
-<p margin="3rem">Orcytes Rhinoceros or Coconut Rhinoceros Beetles (CRB) have made their way to the island of O'ahu and have been wreaking havoc on local palm trees and other plants.  They are invasive pests that attacks palm trees and other plants in Hawaii. It was first detected on O'ahu in December 2013. It is native to Southeast Asia and can grow up to 2 inches long. It bores into the crowns or tops of palm trees where it damages growing tissue and feeds on sap. This can reduce coconut production and kill the tree. The CRB also poses a threat to other native plants such as banana, taro, pineapple, sugarcane, papaya, ginger, heliconia and ti.</p>
+<p style="padding:10px; margin:20px;">Orcytes Rhinoceros or Coconut Rhinoceros Beetles (CRB) have made their way to the island of O'ahu and have been wreaking havoc on local palm trees and other plants.  They are invasive pests that attacks palm trees and other plants in Hawaii. It was first detected on O'ahu in December 2013. It is native to Southeast Asia and can grow up to 2 inches long. It bores into the crowns or tops of palm trees where it damages growing tissue and feeds on sap. This can reduce coconut production and kill the tree. The CRB also poses a threat to other native plants such as banana, taro, pineapple, sugarcane, papaya, ginger, heliconia and ti.</p>
 
 
 
 ## Goal
 
 <img class="img-thumbnail" src="../img/crb/crb-tree-2.jpg" width="300px" style="float:left;" margin-right="3rem">
-<p margin="3rem">This project aims to address the time-consuming task of identifying, counting, and logging geo-location of palms affected by the coconut rhinorceros beetles. This is done using drone image captures at 250ft above ground level(AGL). Once the object-detection model is trained and accurately identifying CRB-infested palms, it can be deployed to receive publicly available drone imagery, identify infested and healthy trees, and scrape GPS metadata from imagery to produce visuals for predicting CRB movement throughout the island. This model can help redirect man power and resources towards creating solutions for mitigating further infestation.
+<p style="padding:10px; margin:20px;">This project aims to address the time-consuming task of identifying, counting, and logging geo-location of palms affected by the coconut rhinorceros beetles. This is done using drone image captures at 250ft above ground level(AGL). Once the object-detection model is trained and accurately identifying CRB-infested palms, it can be deployed to receive publicly available drone imagery, identify infested and healthy trees, and scrape GPS metadata from imagery to produce visuals for predicting CRB movement throughout the island. This model can help redirect man power and resources towards creating solutions for mitigating further infestation.
 </p>
 <br>
 <div class="text-center p-4">
-  <img class="img-thumbnail" src="https://media.giphy.com/media/2tsYAyWidPCIxnDN5f/giphy.gif../img/crb/crb-tree.png" width="800px"><iframe src="https://giphy.com/embed/2tsYAyWidPCIxnDN5f" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ai-machine-learning-deep-learning-2tsYAyWidPCIxnDN5f"></a></p>
+  <img class="img-thumbnail" src="https://media.giphy.com/media/2tsYAyWidPCIxnDN5f/giphy.gif../img/crb/crb-tree.png" width="1000px"><iframe src="https://giphy.com/embed/2tsYAyWidPCIxnDN5f" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ai-machine-learning-deep-learning-2tsYAyWidPCIxnDN5f"></a></p>
 </div>
 
 ## Process
@@ -40,10 +40,28 @@ Starting with a dataset of 200 flight images of three flights over highly infest
   <img class="img-thumbnail" src="../img/crb/crb-data-prep.png" width="800px">
 </div>
 
-The dataset was labeled completely by the end of the course, but is in the process of being cleaned and validated as there were major errors in labeling using older python tools. I am currently utilizing the <a href="https://roboflow.com/">roboflow application</a> to complete this process. Roboflow is a developer tool for building computer vision models faster and more accurately. It streamlines the process between labeling your data and training your model. It also helps you identify edge cases and deploy fixes. I was able to generate models with extremely poor accuracy utilizing Tensorflow Keras, RESNET50 transferred learning CNN, but did not take into account bounding boxes when writing the Google colab script.
+<p>
+  The dataset was labeled completely by the end of the course, but is in the process of being cleaned and validated as there were major errors in labeling using older python tools. I am currently utilizing the <a href="https://roboflow.com/">roboflow application</a> to complete this process. Roboflow is a developer tool for building computer vision models faster and more accurately. It streamlines the process between labeling your data and training your model. It also helps you identify edge cases and deploy fixes. I was able to generate models with extremely poor accuracy utilizing Tensorflow Keras, RESNET50 transferred learning CNN, but did not take into account bounding boxes when writing the Google colab script.
+</p>
 
 <div class="text-center p-4">
   <img class="img-thumbnail" src="../img/crb/crb-current-data.png" width="800px">
+</div>
+<p>This output was generated utilizing YOLOV8, with the current, poorly labeled data in 25 epochs. As the dataset is cleaned and increased, we can expect the models loss and accuracy to increase</p>
+<div class="text-center p-4">
+  <col>
+    <row>
+      <img class="img-thumbnail" src="../img/crb/crb-current-data.png" width="800px">
+    </row>
+    <row>
+      <img class="img-thumbnail" src="../img/crb/confusion_matrix.png" width="800px">
+      <img class="img-thumbnail" src="../img/crb/results.png" width="800px">
+    </row>
+    <row>
+      <img class="img-thumbnail" src="../img/crb/val_batch0_pred.jpg" width="800px">
+      <img class="img-thumbnail" src="../img/crb/val_batch0_labels.jpg" width="800px">
+    </row>    
+  </col>
 </div>
 
 ## Future
