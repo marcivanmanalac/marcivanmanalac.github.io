@@ -53,6 +53,7 @@ Starting with a dataset of 200 flight images of three flights over highly infest
       <img class="img-thumbnail" src="../img/crb/confusion_matrix.png" width="800px">
       <img class="img-thumbnail" src="../img/crb/results.png" width="800px">
     </row>
+    <br>
     <row>
       <img class="img-thumbnail" src="../img/crb/val_batch0_pred.jpg" width="400px">
       <img class="img-thumbnail" src="../img/crb/val_batch0_labels.jpg" width="400px">
