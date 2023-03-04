@@ -24,8 +24,8 @@ This article used the power of chat-based AI, Bing Chat.
 
 ## Goal
 
-<img class="img-thumbnail" src="../img/crb/crb-tree-2.jpg" width="300px" style="float:left; margin-right=20px">
-<p style="padding-left:10px; margin-left:20px;">This project aims to address the time-consuming task of identifying, counting, and logging geo-location of palms affected by the coconut rhinorceros beetles. This is done using drone image captures at 250ft above ground level(AGL). Once the object-detection model is trained and accurately identifying CRB-infested palms, it can be deployed to receive publicly available drone imagery, identify infested and healthy trees, and scrape GPS metadata from imagery to produce visuals for predicting CRB movement throughout the island. This model can help redirect man power and resources towards creating solutions for mitigating further infestation.
+<img src="../img/crb/crb-tree-2.jpg" width="300px" style="float:left; margin-right=20px">
+<p style="padding:10px;margin:20px;">This project aims to address the time-consuming task of identifying, counting, and logging geo-location of palms affected by the coconut rhinorceros beetles. This is done using drone image captures at 250ft above ground level(AGL). Once the object-detection model is trained and accurately identifying CRB-infested palms, it can be deployed to receive publicly available drone imagery, identify infested and healthy trees, and scrape GPS metadata from imagery to produce visuals for predicting CRB movement throughout the island. This model can help redirect man power and resources towards creating solutions for mitigating further infestation.
 </p>
 <br>
 <div class="text-center p-4">
