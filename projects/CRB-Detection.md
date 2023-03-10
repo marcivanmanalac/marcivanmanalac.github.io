@@ -20,6 +20,7 @@ This article used the power of chat-based AI, Bing Chat.
 <img class="img-thumbnail" src="../img/crb/crb-two-beetles.jpg" width="400px" style="float:right;margin:20px">
 <p style="padding-right:10px; margin-right:20px; text-indent: 20px;">  Orcytes Rhinoceros or Coconut Rhinoceros Beetles (CRB) have made their way to the island of O'ahu and have been wreaking havoc on local palm trees and other plants.  They are invasive pests that attacks palm trees and other plants in Hawaii. It was first detected on O'ahu in December 2013. It is native to Southeast Asia and can grow up to 2 inches long. It bores into the crowns or tops of palm trees where it damages growing tissue and feeds on sap. This can reduce coconut production and kill the tree. The CRB also poses a threat to other native plants such as banana, taro, pineapple, sugarcane, papaya, ginger, heliconia and ti.</p>
 <br>
+<br>
 <div class="text-center p-4">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/3jr3V6kcJzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  <p>A Brief Video of CRBs from the University of Guam.</p>
