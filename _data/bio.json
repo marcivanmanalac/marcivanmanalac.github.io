@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Marc Ivan Manalac",
+    "label": "Student",
+    "picture": "https://github.com/marcivanmanalac.png",
+    "email": "marcivan@hawaii.edu",
+    "phone": "Email for more info",
+    "website": "https://marcivanmanalac.github.io",
+    "summary": "I am a B.S. Computer Engineering Graduate from the Department of Computer & Electrical Engineering at the University of Hawaii at Manoa, Fall 2022.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "marcivanmanalac", "url": "http://github.com/marcivanmanalac" },
+      { "network": "linkedin", "username": "mimanalac", "url": "http://linkedin.com/in/mimanalac" }
+    ]
+  },
+  "interests": [
+    { "name": "Single Board Computers" },
+    { "name": "Drones" },
+    { "name": "Deep Learning"},
+    { "name": "Robotics" },
+    { "name": "Surfing"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "BASH", "Javascript", "Verilog" ]
+    },
+    {
+      "name": "Software Toolsets/OS",
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++", "Autocad Fusion360", "MATLab" ]
+    },
+    {
+      "name":"Hardware Tools",
+      "keywords":["Soldering, 3D Modeling for Additive Manufacturing, Arduino, Raspberry Pi, Pixhawk"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering Fall, 2022",
+      "studyType": "B.S.",
+      "startDate": "2019-08-01",
+      "endDate": "2022-12-16",
+      "courses": [  "Circuit Analysis I, II",
+                    "Calculus I, II, III, IV",
+                    "Physics I, II",
+                    "Electromagnetics",
+                    "Programming for Engineers (C Language)",
+                    "Object Oriented Programming ( C++)",
+                    "Circuit Analysis I, II",
+                    "Signals and Systems Analysis",
+                    "Microelectronic Circuits",
+                    "Linear Algebra & Differential Equations, Discrete Math",
+                    "Digital Systems and Computer Design",
+                    "Computer Data Structures and Algorithms",
+                    "Software Engineering (JavaScript, MongoDB, React)",
+                    "Sensors & Instrumentation for Biological systems",
+                    "Operating Systems",
+                    "Digital Design",
+                    "Cyber-Physical Systems and Internet of Things",
+                    "Computer & Network Security"]
+    }
+  ],
+  "work": [
+    {
+      "company": "NIWC Pacific",
+      "position": "Computer Engineering Intern",
+      "website": "",
+      "startDate": "2022-06-17",
+      "endDate": "2022-12-16",
+      "summary": "Intern for 5G UAV Project",
+      "highlights": [
+        "Assisted in testing and integration of self-landing system onboard UAV",
+        "Programmed drone companion computer raspberry pi"
+      ]
+    }
+  ],
+    
+  "awards": [
+    {
+      "title": "SFS CyberCorp Scholarship",
+      "date": "2021-Present",
+      "awarder": "U.S. Office of Personnel Management",
+      "summary": "Scholarships awarded to students working on Computer related degrees that are motivated to serve the Federal Government upon graduation."
+    },
+    {
+      "title": "Finalist",
+      "date": "2020",
+      "awarder": "National Security Innovation Network",
+      "summary": "Placed in top ten teams for NSIN Beat-the-Blaze hackathon out of 400 participants"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
