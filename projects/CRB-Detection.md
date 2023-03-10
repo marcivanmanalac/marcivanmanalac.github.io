@@ -31,13 +31,13 @@ This article used the power of chat-based AI, Bing Chat.
 
 <img class="img-thumbnail" src="../img/crb/crb-tree-2.jpg" width="350px" style="float:left; margin-right:20px;">
 
-<p style="padding:10px; margin:20px 20px 20px 0; text-indent: 20px;"> This project aims to address the time-consuming task of identifying, counting, and logging geo-location of palms affected by the coconut rhinorceros beetles. This is done using drone image captures at 250ft above ground level(AGL). Once the object-detection model is trained and accurately identifying CRB-infested palms, it can be deployed to receive publicly available drone imagery, identify infested and healthy trees, and scrape GPS metadata from imagery to produce visuals for predicting CRB movement throughout the island. This model can help redirect man power and resources towards creating solutions for mitigating further infestation.
+<p style="padding:10px; margin:20px 20px 20px 0; text-indent: 20px;"> This project aims to address the time-consuming task of identifying, counting, and logging geo-location of palms affected by the coconut rhinorceros beetles. This is done using drone image captures at 250ft above ground level(AGL). Once the object-detection model is trained and accurately identifying CRB-infested palms, it can be deployed to receive publicly available drone imagery, identify infested and healthy trees, and scrape GPS metadata from imagery to produce a map of all affected areas which can be useful for predicting CRB movement throughout the island. This model can help redirect man power and resources towards creating solutions for mitigating further infestation.
 </p>
 <br>
 
 
 ## Process
-<p style="text-indent: 20px;"> Starting with a dataset of 200 flight images of three flights over highly infested areas on the island. The undergraduate students  were tasked with preprocessing the data for the deep learning model. Preprocessing entailed utilizing a virtual environment such as Anaconda Navigator and Python for splitting the the image data into 1000x1000 pixel images. Those cropped images totaled to over 7000 new images which were then used the generate labels for the supervised learning set. CRBs leave noticeable markings on palms which are visible from 250ft AGL. A 45 degree notch on the palm fronds can be found on one or both sides of a palm. These markings are labeled as "notch". The palm fronds with visible notches were labeled "infested_frond" and trees with "notch" and "infested_frond" labels were subsequently marked as "infested_tree"s. Unaffected trees were labeled "healthy_frond" and "healthy_tree" accordingly. Once all images are labeled. The data is subdivided into 70-30% split between training and validation for creating the convolutional neural network.</p>
+<p style="text-indent: 20px;"> Starting with a dataset of 200 flight images of three flights over highly infested areas on the island. The undergraduate students  were tasked with preprocessing the data for the deep learning model. Preprocessing entailed utilizing a virtual environment such as Anaconda Navigator and a high-level interpreted language such as Python for splitting the the image data into 1000x1000 pixel images. Those cropped images totaled to over 7000 new images which were then used the generate labels for the supervised learning set. CRBs leave noticeable markings on palms which are visible from 250ft AGL. A 45 degree notch on the palm fronds can be found on one or both sides of a palm. These markings are labeled as "notch". The palm fronds with visible notches were labeled "infested_frond" and trees with "notch" and "infested_frond" labels were subsequently marked as "infested_tree"s. Unaffected trees were labeled "healthy_frond" and "healthy_tree" accordingly. Once all images are labeled. The data is subdivided into 70-30% split between training and validation for creating the convolutional neural network.</p>
 
 <div class="text-center p-4">
   <img class="img-thumbnail" src="../img/crb/crb-ml-path.png" width="800px">
@@ -46,7 +46,11 @@ This article used the power of chat-based AI, Bing Chat.
   <img class="img-thumbnail" src="../img/crb/crb-data-prep.png" width="800px">
 </div>
 
-<p style="text-indent: 20px;"> The dataset was labeled completely by the end of the course, but is in the process of being cleaned and validated as there were major errors in labeling using older python tools. I am currently utilizing the <a href="https://roboflow.com/">roboflow application</a> to complete this process. Roboflow is a developer tool for building computer vision models faster and more accurately. It streamlines the process between labeling your data and training your model. It also helps you identify edge cases and deploy fixes. I was able to generate models with extremely poor accuracy utilizing Tensorflow Keras, RESNET50 transferred learning CNN, but did not take into account bounding boxes when writing the Google colab script.
+<p style="text-indent: 20px;"> 
+  The dataset was labeled completely by the end of the course, but is in the process of being cleaned and validated as there were major errors in labeling using older and outdated tools. After the semester ended, I came across other tools such as the <a href="https://roboflow.com/">roboflow application</a> to complete this precessing as well as create an object detection model. Roboflow is a developer tool for building computer vision models faster and more accurately. It streamlines the process between labeling your data and training your model. It also helped identify edge cases and deploy fixes. I was able to generate models with extremely poor accuracy utilizing my own custom Tensorflow Keras, RESNET50 transferred learning CNN, but did not take into account bounding boxes when writing the Google colab script.
+</p>
+<p style="text-indent: 20px;">
+  As of 3/10/2023 I have been able to create three Models. The first was using Roboflow's YOLOV8 Model for object detection. Using Roboflow, I was able to create an augmented set to include in my data set and utilized Google Colab to create the model. This rendered the best results of all three of my models.
 </p>
 
 <div class="text-center p-4">
@@ -66,6 +70,27 @@ This article used the power of chat-based AI, Bing Chat.
       <img class="img-thumbnail" src="../img/crb/val_batch0_labels.jpg" width="400px">
     </row>    
     <p> A sample of the predicted objected vs. Actual objects.</p>
+</div>
+
+<p style="text-indent: 20px;">
+  After creating the object detection model, I created an image classification model using Fizyr's Keras-Retinanet Repository on Github. This implementation uses a pyramid network to handle the different scales of the object. 
+</p>
+<br>
+<div class="text-center p-4">
+  <row>
+    <img class="img-thumbnail" src="../img/crb/fizyr-kr-out.png" width="400px">
+  </row>
+</div>
+
+<p style="text-indent: 20px;">
+  Lastly, I created a Pytorch DeepForest Model using the Weecology DeepForest GitHub repository. DeepForest is another Keras-Retinanet implementation, but uses a model that was pretrained on crowns of trees, which seemed right for the task.
+</p>
+<br>
+<div class="text-center p-4">
+  <row>
+    <img class="img-thumbnail" src="../img/crb/df-results-1.png" width="400px">
+    <img class="img-thumbnail" src="../img/crb/df-results-2.png" width="400px">
+  </row>
 </div>
 
 ## Future
