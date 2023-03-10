@@ -88,15 +88,21 @@ This article used the power of chat-based AI, Bing Chat.
 <br>
 <div class="text-center p-4">
   <row>
-    <img class="img-thumbnail" src="../img/crb/df-results-1.png" width="400px">
-    <img class="img-thumbnail" src="../img/crb/df-results-2.png" width="400px">
+    <img class="img-thumbnail" src="../img/crb/df-results-1.png" height="400px">
+    <img class="img-thumbnail" src="../img/crb/df-results-2.png" height="400px">
   </row>
 </div>
 
 ## Future
-<p style="text-indent: 20px;"> I will be comparing the results between YoloV8, TensorFlow Keras-Retinanet, and PytorchNow Deep Forest utilizing the same dataset under similar circumstances. I will also be creating a react application for the most efficient model. Now that I have graduated, I am more motivated to see this project to completion and to be able to provide a good resource for combatting the endemic CRB. I am open to help in seeing this project through! Please email me at marcivan@hawaii.edu to get involved!</p>
+<p style="text-indent: 20px;">
+  The next step for this project would be improving the results of the object detection model by increasing the data for better generalization. As we've seen in the YOLOV8 model's confusion matrix output, the AI was fairly accurate in determining an infested tree vs. a healthy one so we can ignore the detection of the other classes and focus solely on determing the infested trees. Once that is complete, we can then deploy the model in a browser or mobile application in any stack using the TensorFlowJS, RoboflowJS libraries.
+  
+  Now that I have graduated, I am more motivated to see this project to completion and to be able to provide a good resource for combatting the endemic CRB. I am open to help in seeing this project through! Please email me at marcivan@hawaii.edu to get involved!
+</p>
 
 ## About
-<p> The project started in the Spring of 2022 during a Biosensors and Instrumention course in the University of Hawaii of Manoa, taught by Professor David Jenkins. The project was overseen by PhD Candidate MS EE Mohsen Paryavi and the original group consisted of Myself, BS CENG Marc Ivan Manalac, BS CENG Destynee Fagaragan, BSEE Zoe Mills, BSEE Monica Ueshima, & BSEE Lorena Urlanda.
+<p> 
+  The project started in the Spring of 2022 during a Biosensors and Instrumention course in the University of Hawaii of Manoa, taught by Professor David Jenkins. The project was overseen by PhD Candidate MS EE Mohsen Paryavi and the original group consisted of Myself, BS CENG Marc Ivan Manalac, BS CENG Destynee Fagaragan, BSEE Zoe Mills, BSEE Monica Ueshima, & BSEE Lorena Urlanda.
 
-The current state of the data can be found in the <a href="https://universe.roboflow.com/crb/coconut-rhinoceros-beetle-infested-palm-tree-detection">Roboflow site</a>.</p>
+  The current state of the data can be found in the <a href="https://universe.roboflow.com/crb/coconut-rhinoceros-beetle-infested-palm-tree-detection">Roboflow site</a>.
+</p>
